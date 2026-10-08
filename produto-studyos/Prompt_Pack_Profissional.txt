@@ -998,3 +998,1003 @@ USE QUANDO Use quando a primeira explicação não funcionou.
 ENTRADA MÍNIMA Trecho ou conceito difícil.
 
 PROMPT PARA COPIAR
+Ainda não entendi {{CONCEITO}}.
+
+Explique novamente sem repetir a mesma abordagem.
+
+Use esta sequência:
+
+1. uma analogia simples;
+
+2. um exemplo do mundo real;
+
+3. explicação técnica correta;
+
+4. comparação com conceitos que costumam ser confundidos;
+
+5. um exemplo de como isso poderia virar questão de prova;
+
+6. uma pergunta curta para eu responder e verificar se entendi.
+
+Não avance até eu conseguir explicar o conceito com minhas próprias palavras.
+
+SAÍDA ESPERADA  Nova rota de compreensão.
+
+22. Método Feynman
+USE QUANDO Use depois de estudar um tópico.
+
+ENTRADA MÍNIMA Assunto estudado.
+
+PROMPT PARA COPIAR
+Quero testar {{ASSUNTO}} pelo método Feynman.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 15
+
+Faça uma pergunta por vez e peça para eu explicar como se estivesse ensinando a uma pessoa 
+iniciante.
+
+Depois de cada resposta:
+
+- identifique o que está correto;
+
+- aponte lacunas objetivamente;
+
+- corrija apenas o necessário;
+
+- faça uma pergunta de aprofundamento.
+
+No final, dê uma nota de domínio conceitual de 0 a 100 baseada somente no que demonstrei nesta 
+conversa e diga o que ainda preciso recuperar.
+
+SAÍDA ESPERADA  Diagnóstico por explicação ativa.
+
+23. Recuperação Ativa de 10 Minutos
+USE QUANDO Use no fim de uma sessão.
+
+ENTRADA MÍNIMA Assunto estudado.
+
+PROMPT PARA COPIAR
+Faça uma sessão de recuperação ativa de 10 minutos sobre {{ASSUNTO}}.
+
+Sem me dar respostas antecipadamente, conduza:
+
+- 3 perguntas de definição/compreensão;
+
+- 2 perguntas de comparação;
+
+- 2 perguntas de aplicação;
+
+- 1 pegadinha conceitual.
+
+Faça uma pergunta por vez.
+
+No final, mostre quais pontos consegui recuperar sem ajuda e quais devo revisar.
+
+SAÍDA ESPERADA  Teste curto de retenção imediata.
+
+24. Mapa Mental Textual
+USE QUANDO Use quando o assunto tem muitas relações entre conceitos.
+
+ENTRADA MÍNIMA Assunto.
+
+PROMPT PARA COPIAR
+Crie um mapa mental TEXTUAL de {{ASSUNTO}}.
+
+Use níveis hierárquicos e setas para mostrar relações.
+
+Inclua apenas o que é útil para a prova:
+
+- conceito central;
+
+- componentes;
+
+- relações;
+
+- diferenças;
+
+- exceções;
+
+- palavras-chave;
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 16
+
+- pegadinhas.
+
+Depois gere 5 perguntas de recuperação baseadas no mapa, sem gabarito imediato.
+
+SAÍDA ESPERADA  Visão estrutural para memorização.
+
+25. Flashcards de Alta Qualidade
+USE QUANDO Use somente para fatos, diferenças ou regras que valham 
+
+memorização.
+
+ENTRADA MÍNIMA Assunto já compreendido.
+
+PROMPT PARA COPIAR
+Crie flashcards de {{ASSUNTO}} apenas para pontos que realmente se beneficiam de memorização.
+
+Regras:
+
+- uma ideia por cartão;
+
+- pergunta específica;
+
+- resposta curta;
+
+- evite cartões óbvios ou longos;
+
+- priorize definições, exceções, listas pequenas, diferenças e pegadinhas;
+
+- não use flashcards para substituir compreensão.
+
+Classifique cada cartão como ESSENCIAL, ÚTIL ou OPCIONAL.
+
+SAÍDA ESPERADA  Baralho enxuto, sem excesso de cartões.
+
+PARTE 5 — QUESTÕES, BANCA E BANCO DE ERROS
+Use os prompts desta seção conforme o estágio da preparação. Não é necessário usar todos; o valor está em 
+selecionar o prompt certo para o problema certo.
+
+26. Buscar Questões Reais da Banca
+USE QUANDO Use depois de concluir a aula de um assunto.
+
+ENTRADA MÍNIMA Banca, disciplina e assunto.
+
+PROMPT PARA COPIAR
+Localize questões reais da banca {{BANCA}} sobre {{ASSUNTO}}.
+
+Prioridades:
+
+1. provas oficiais ou fontes confiáveis;
+
+2. questões mais recentes;
+
+3. cargo/nível semelhantes, quando possível;
+
+4. aderência exata ao assunto.
+
+Não invente questões e não atribua uma questão à banca sem fonte.
+
+Se não houver quantidade suficiente, diga isso e amplie gradualmente para temas correlatos ou 
+anos anteriores.
+
+Primeiro me apresente as referências/filtros encontrados. Se for reproduzir questões, respeite os 
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 17
+
+limites de uso da fonte e não revele o gabarito antes de eu responder.
+
+SAÍDA ESPERADA  Conjunto verificável de questões para prática.
+
+27. Filtro para Plataforma de Questões
+USE QUANDO Use com TEC, QConcursos ou plataforma similar.
+
+ENTRADA MÍNIMA Assunto estudado.
+
+PROMPT PARA COPIAR
+Acabei de estudar {{ASSUNTO}} para {{CONCURSO}}, banca {{BANCA}}.
+
+Diga exatamente como devo montar um filtro em uma plataforma de questões.
+
+Informe:
+
+- banca;
+
+- disciplina;
+
+- assunto e subassuntos;
+
+- intervalo de anos;
+
+- nível de escolaridade, se útil;
+
+- tipos de cargo, se útil;
+
+- quantidade inicial de questões;
+
+- quando ampliar ou restringir o filtro.
+
+Depois defina uma meta de acerto inicial e diga quais dados devo trazer de volta para você 
+analisar meu desempenho.
+
+SAÍDA ESPERADA  Filtro replicável na plataforma.
+
+28. Aplicar Bateria de Questões
+USE QUANDO Use quando quiser fazer questões dentro do chat.
+
+ENTRADA MÍNIMA Assunto e número de questões.
+
+PROMPT PARA COPIAR
+Aplique uma bateria de {{NUMERO}} questões sobre {{ASSUNTO}}, no estilo da banca {{BANCA}}.
+
+Se houver questões reais disponíveis e utilizáveis, priorize-as e informe a fonte. Caso crie 
+questões autorais, identifique claramente como “questão autoral inspirada no estilo da banca”, 
+sem fingir que é questão real.
+
+Regras:
+
+- uma questão por vez;
+
+- não mostre o gabarito antes da minha resposta;
+
+- registre minha alternativa;
+
+- só depois explique o motivo;
+
+- ao final, calcule acertos e classifique os erros.
+
+SAÍDA ESPERADA  Sessão de questões com feedback controlado.
+
+29. Correção Profunda de Questão
+USE QUANDO Use para cada questão errada ou duvidosa.
+
+ENTRADA MÍNIMA Enunciado, alternativas, resposta dada e gabarito.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 18
+
+PROMPT PARA COPIAR
+Analise esta questão que errei ou tive dúvida.
+
+Quero a correção em 5 partes:
+
+1. o que a questão realmente estava cobrando;
+
+2. por que a alternativa correta é correta;
+
+3. por que cada alternativa errada está errada;
+
+4. qual foi provavelmente o meu erro de raciocínio;
+
+5. uma regra curta para eu lembrar na próxima vez.
+
+Depois classifique meu erro em uma categoria:
+
+- não sabia;
+
+- confusão conceitual;
+
+- esquecimento;
+
+- interpretação;
+
+- desatenção;
+
+- pegadinha da banca.
+
+Se houver ambiguidade ou possibilidade de recurso, indique e fundamente, sem forçar certeza.
+
+SAÍDA ESPERADA  Correção que transforma erro em aprendizado.
+
+30. Banco de Erros
+USE QUANDO Use depois de uma sessão de questões.
+
+ENTRADA MÍNIMA Lista de questões erradas e comentários.
+
+PROMPT PARA COPIAR
+Atualize meu BANCO DE ERROS com os resultados desta sessão.
+
+Para cada erro, registre:
+
+- data;
+
+- disciplina;
+
+- assunto;
+
+- conceito cobrado;
+
+- tipo de erro;
+
+- o que eu pensei;
+
+- por que estava errado;
+
+- regra correta;
+
+- gatilho/pegadinha;
+
+- prioridade de revisão: alta, média ou baixa;
+
+- próxima revisão sugerida.
+
+Depois agrupe erros semelhantes para detectar padrões.
+
+Não transforme o banco de erros em um resumo de toda a matéria. Registre somente o que realmente 
+gerou falha ou dúvida relevante.
+
+SAÍDA ESPERADA  Histórico de falhas com valor diagnóstico.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 19
+
+31. Diagnóstico por Taxa de Acerto
+USE QUANDO Use após pelo menos algumas dezenas de questões.
+
+ENTRADA MÍNIMA Resultados por matéria/assunto.
+
+PROMPT PARA COPIAR
+Analise meu desempenho em questões.
+
+Dados: {{RESULTADOS}}
+
+Para cada matéria/assunto, avalie:
+
+- número de questões (para evitar conclusões com amostra pequena);
+
+- percentual de acertos;
+
+- tendência recente;
+
+- tipos de erro;
+
+- tempo desde a última revisão.
+
+Classifique cada tópico como:
+
+VERMELHO = prioridade alta;
+
+AMARELO = instável;
+
+VERDE = desempenho bom, manter revisão;
+
+AZUL = domínio provisório, baixa manutenção.
+
+Não use apenas o percentual bruto; considere tamanho da amostra e dificuldade das questões.
+
+SAÍDA ESPERADA  Mapa de fraquezas baseado em evidência.
+
+32. Requestões de Erros
+USE QUANDO Use para retestar erros antigos.
+
+ENTRADA MÍNIMA Banco de erros.
+
+PROMPT PARA COPIAR
+Crie uma bateria de RETESTE baseada exclusivamente nos conceitos do meu banco de erros.
+
+Não repita literalmente as mesmas perguntas se puder variar o contexto.
+
+Misture:
+
+- conceitos que errei recentemente;
+
+- erros antigos que ainda precisam de confirmação;
+
+- conceitos parecidos que costumo confundir.
+
+Não identifique previamente qual erro cada questão está testando.
+
+Ao final, compare meu desempenho atual com o histórico e diga quais erros podem sair da 
+prioridade alta.
+
+SAÍDA ESPERADA  Validação de correção dos erros.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 20
+
+PARTE 6 — REVISÃO E RETENÇÃO
+Use os prompts desta seção conforme o estágio da preparação. Não é necessário usar todos; o valor está em 
+selecionar o prompt certo para o problema certo.
+
+33. Criar PDF de Revisão
+USE QUANDO Use depois de aula + questões.
+
+ENTRADA MÍNIMA Teoria essencial + erros reais + estilo da banca.
+
+PROMPT PARA COPIAR
+Crie/atualize o PDF DE REVISÃO da disciplina {{DISCIPLINA}}.
+
+Este material NÃO é uma segunda apostila.
+
+Inclua somente:
+
+- conceitos essenciais;
+
+- diferenças que geram confusão;
+
+- exceções importantes;
+
+- palavras-chave;
+
+- pegadinhas da banca;
+
+- meus erros reais;
+
+- regras para lembrar;
+
+- questões ou perguntas de recuperação curta;
+
+- checklist final.
+
+Dê mais espaço aos pontos em que erro e menos espaço ao que já domino.
+
+O PDF deve ser cumulativo: preserve conteúdos ainda úteis das versões anteriores e 
+acrescente/ajuste o novo assunto.
+
+Marque a versão e a data.
+
+SAÍDA ESPERADA  Material enxuto e personalizado de revisão.
+
+34. Revisão D+1
+USE QUANDO Use no dia seguinte ao estudo.
+
+ENTRADA MÍNIMA Assunto estudado ontem.
+
+PROMPT PARA COPIAR
+Faça minha revisão D+1 de {{ASSUNTO}} em no máximo 15 minutos.
+
+Ordem:
+
+1. perguntas de recuperação sem consulta;
+
+2. correção das lacunas;
+
+3. 3 a 5 questões ou itens curtos;
+
+4. decisão: manter calendário ou antecipar nova revisão.
+
+Não releia a aula inteira. O objetivo é recuperação, não exposição passiva.
+
+SAÍDA ESPERADA  Reforço precoce da memória.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 21
+
+35. Revisão D+7
+USE QUANDO Use aproximadamente uma semana depois.
+
+ENTRADA MÍNIMA Assunto e resultados anteriores.
+
+PROMPT PARA COPIAR
+Faça minha revisão D+7 de {{ASSUNTO}}.
+
+Comece sem material de apoio.
+
+Teste:
+
+- conceitos centrais;
+
+- diferenças;
+
+- uma aplicação;
+
+- uma pegadinha;
+
+- pelo menos algumas questões, se houver.
+
+Compare com meu desempenho anterior e decida se o assunto:
+
+A. segue para D+30;
+
+B. precisa de revisão intermediária;
+
+C. deve voltar para o PDF de aula por falha conceitual.
+
+SAÍDA ESPERADA  Decisão adaptativa de espaçamento.
+
+36. Revisão D+30
+USE QUANDO Use para retenção de longo prazo.
+
+ENTRADA MÍNIMA Assunto, histórico e banco de erros.
+
+PROMPT PARA COPIAR
+Faça minha revisão D+30 de {{ASSUNTO}} priorizando retenção de longo prazo.
+
+Não faça uma aula novamente.
+
+Use:
+
+- recuperação ativa;
+
+- questões misturadas;
+
+- erros históricos;
+
+- conceitos próximos que podem causar interferência.
+
+Ao final, classifique o assunto como:
+
+DOMÍNIO PROVISÓRIO / MANUTENÇÃO / REFORÇO NECESSÁRIO.
+
+Se estiver em domínio provisório, recomende um intervalo maior ou revisão somente por simulados.
+
+SAÍDA ESPERADA  Validação de memória de longo prazo.
+
+37. Revisão Expressa de 5 Minutos
+USE QUANDO Use em fila, transporte ou intervalo.
+
+ENTRADA MÍNIMA Assunto já estudado.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 22
+
+PROMPT PARA COPIAR
+Tenho 5 minutos para revisar {{ASSUNTO}}.
+
+Faça somente:
+
+- 3 perguntas essenciais;
+
+- 2 diferenças ou pegadinhas;
+
+- 1 regra de ouro.
+
+Não faça explicação longa. Só explique o que eu errar.
+
+SAÍDA ESPERADA  Microrevisão de alta eficiência.
+
+38. Revisão Cumulativa da Disciplina
+USE QUANDO Use após vários assuntos concluídos.
+
+ENTRADA MÍNIMA Assuntos já estudados na disciplina.
+
+PROMPT PARA COPIAR
+Faça uma revisão cumulativa de {{DISCIPLINA}} sem separar as perguntas por assunto.
+
+Misture os conteúdos que já estudei.
+
+Quero testar se consigo identificar o conceito correto sem receber a pista do capítulo.
+
+Inclua:
+
+- recuperação ativa;
+
+- comparações cruzadas;
+
+- questões misturadas;
+
+- erros anteriores.
+
+Ao final, apresente uma matriz por assunto: retenção, acerto e necessidade de reforço.
+
+SAÍDA ESPERADA  Integração dos conhecimentos da disciplina.
+
+39. Ajustar Intervalos de Revisão
+USE QUANDO Use quando já houver histórico de acertos.
+
+ENTRADA MÍNIMA Histórico de revisões.
+
+PROMPT PARA COPIAR
+Analise meu histórico de revisões e ajuste os intervalos.
+
+Regras:
+
+- se eu recordo facilmente e acerto questões, aumente o intervalo;
+
+- se esqueço detalhes importantes, reduza o intervalo;
+
+- se o problema é conceitual, não resolva apenas aumentando revisões: indique reestudo;
+
+- dê prioridade aos tópicos de alto peso e alta incidência.
+
+Entregue uma tabela com assunto, situação e próxima revisão sugerida.
+
+SAÍDA ESPERADA  Calendário adaptativo de retenção.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 23
+
+PARTE 7 — MÉTRICAS, FECHAMENTO E AJUSTES
+Use os prompts desta seção conforme o estágio da preparação. Não é necessário usar todos; o valor está em 
+selecionar o prompt certo para o problema certo.
+
+40. Fechamento do Dia
+USE QUANDO Use ao final do estudo.
+
+ENTRADA MÍNIMA Sessões realizadas no dia.
+
+PROMPT PARA COPIAR
+Faça meu fechamento de estudos de hoje.
+
+Registre:
+
+- minutos líquidos;
+
+- matéria e assunto;
+
+- atividade feita;
+
+- questões e acertos;
+
+- erros relevantes;
+
+- revisão agendada;
+
+- ponto de parada exato para retomar amanhã.
+
+Depois responda em uma frase: “O dia foi produtivo porque...” ou “O principal ajuste é...”, 
+baseado em dados e sem motivação vazia.
+
+SAÍDA ESPERADA  Registro diário compacto.
+
+41. Fechamento Semanal
+USE QUANDO Use uma vez por semana.
+
+ENTRADA MÍNIMA Dados da semana.
+
+PROMPT PARA COPIAR
+Faça meu FECHAMENTO SEMANAL.
+
+Calcule e analise:
+
+- horas líquidas x meta;
+
+- dias estudados;
+
+- assuntos concluídos;
+
+- questões feitas;
+
+- taxa de acerto geral e por matéria;
+
+- revisões feitas/vencidas;
+
+- cobertura do edital;
+
+- erros recorrentes;
+
+- matéria que mais melhorou;
+
+- matéria mais preocupante.
+
+Depois proponha 3 ajustes concretos para a próxima semana.
+
+Não trate horas altas como sucesso se o desempenho e a retenção estiverem ruins.
+
+SAÍDA ESPERADA  Relatório semanal acionável.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 24
+
+42. Rebalancear o Ciclo
+USE QUANDO Use após fechamento semanal ou simulado.
+
+ENTRADA MÍNIMA Desempenho atualizado.
+
+PROMPT PARA COPIAR
+Rebalanceie meu ciclo de matérias com base no desempenho atual.
+
+Aumente tempo para matérias com combinação de:
+
+- alto peso;
+
+- baixa taxa de acerto;
+
+- alta incidência;
+
+- grande quantidade de conteúdo ainda não visto.
+
+Reduza tempo onde há domínio provisório, sem eliminar manutenção.
+
+Mostre o ciclo ANTES e DEPOIS e explique cada alteração em uma linha.
+
+SAÍDA ESPERADA  Ciclo recalibrado.
+
+43. Diagnóstico de Método
+USE QUANDO Use se estudar bastante e não evoluir.
+
+ENTRADA MÍNIMA Rotina, horas, acertos e forma de estudar.
+
+PROMPT PARA COPIAR
+Estou estudando, mas sinto que não estou evoluindo como deveria.
+
+Faça um diagnóstico do meu MÉTODO, não apenas do conteúdo.
+
+Investigue:
+
+- leitura passiva excessiva;
+
+- poucas questões;
+
+- ausência de recuperação ativa;
+
+- revisões atrasadas;
+
+- sessões longas demais;
+
+- sono/cansaço;
+
+- troca excessiva de materiais;
+
+- perfeccionismo em um assunto;
+
+- baixa qualidade do banco de erros;
+
+- cronograma incompatível com minha rotina.
+
+Faça perguntas somente se faltarem dados essenciais. Depois proponha uma mudança de cada vez, com 
+métrica para saber se funcionou.
+
+SAÍDA ESPERADA  Correção do processo de estudo.
+
+44. Painel de Desempenho Textual
+USE QUANDO Use quando não houver sistema visual.
+
+ENTRADA MÍNIMA Dados acumulados.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 25
+
+PROMPT PARA COPIAR
+Monte meu painel de desempenho em formato textual e fácil de visualizar.
+
+Inclua:
+
+- dias para a prova;
+
+- meta semanal e horas feitas;
+
+- questões totais;
+
+- acerto geral;
+
+- cobertura do edital;
+
+- revisões pendentes;
+
+- posição no ciclo;
+
+- top 3 pontos fortes;
+
+- top 3 pontos fracos;
+
+- próxima ação.
+
+Use símbolos simples (   ) apenas quando ajudarem a leitura.🟢 🟡 🔴
+
+SAÍDA ESPERADA  Dashboard textual rápido.
+
+PARTE 8 — SIMULADOS E RETA FINAL
+Use os prompts desta seção conforme o estágio da preparação. Não é necessário usar todos; o valor está em 
+selecionar o prompt certo para o problema certo.
+
+45. Gerar Simulado
+USE QUANDO Use quando já houver boa cobertura do edital.
+
+ENTRADA MÍNIMA Estrutura real da prova.
+
+PROMPT PARA COPIAR
+Monte um simulado para {{CONCURSO}} - {{CARGO}} respeitando, tanto quanto possível, a 
+distribuição real de disciplinas, pesos e estilo da banca {{BANCA}}.
+
+Regras:
+
+- não informe o assunto específico de cada questão;
+
+- misture matérias e níveis de dificuldade;
+
+- use questões reais quando legalmente e tecnicamente apropriado, com fonte; caso contrário, use 
+questões autorais claramente identificadas;
+
+- não revele gabarito antes da conclusão;
+
+- sugira tempo total compatível com a prova.
+
+Depois de eu responder tudo, corrija e gere diagnóstico por disciplina, assunto e tipo de erro.
+
+SAÍDA ESPERADA  Simulado parecido com a experiência de prova.
+
+46. Pós-Simulado
+USE QUANDO Use imediatamente após corrigir um simulado.
+
+ENTRADA MÍNIMA Resultados completos do simulado.
+
+PROMPT PARA COPIAR
+Faça a análise pós-simulado.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 26
+
+Quero:
+
+1. nota total e por bloco;
+
+2. taxa de acerto por matéria;
+
+3. erros por tipo;
+
+4. questões erradas por falta de conhecimento x execução;
+
+5. tempo de prova, se informado;
+
+6. tópicos que mais custaram pontos;
+
+7. 5 prioridades para os próximos 7 dias;
+
+8. ajustes no ciclo;
+
+9. itens que devem entrar no PDF de revisão;
+
+10. quais erros precisam de reteste.
+
+Evite conclusões fortes com poucas questões de uma matéria.
+
+SAÍDA ESPERADA  Plano de correção pós-simulado.
+
+47. Plano dos Últimos 30 Dias
+USE QUANDO Use quando faltarem cerca de 30 dias.
+
+ENTRADA MÍNIMA Cobertura, acertos e revisões.
+
+PROMPT PARA COPIAR
+Faltam aproximadamente 30 dias para a prova.
+
+Reestruture minha preparação para RETA FINAL.
+
+Prioridades:
+
+- fechar lacunas críticas do edital;
+
+- aumentar questões da banca;
+
+- revisões cumulativas;
+
+- banco de erros;
+
+- simulados;
+
+- legislação/normas atualizadas quando aplicável;
+
+- reduzir aprofundamentos de baixo retorno.
+
+Crie um plano semanal até a prova com percentual aproximado de tempo em teoria, questões, revisão 
+e simulados.
+
+SAÍDA ESPERADA  Transição planejada para reta final.
+
+48. Plano dos Últimos 7 Dias
+USE QUANDO Use na semana da prova.
+
+ENTRADA MÍNIMA Estado final da preparação.
+
+PROMPT PARA COPIAR
+Faltam 7 dias para a prova.
+
+Monte um plano que maximize retenção sem gerar esgotamento.
+
+Evite abrir grandes conteúdos novos, salvo lacuna crítica e curta.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 27
+
+Priorize:
+
+- PDFs de revisão;
+
+- banco de erros;
+
+- questões selecionadas;
+
+- revisão de pontos de alto peso;
+
+- estratégia de prova;
+
+- sono e logística.
+
+Inclua o que NÃO devo fazer nesta semana.
+
+SAÍDA ESPERADA  Semana final controlada.
+
+49. Estratégia de Prova
+USE QUANDO Use na reta final.
+
+ENTRADA MÍNIMA Formato da prova e histórico pessoal.
+
+PROMPT PARA COPIAR
+Ajude-me a definir uma estratégia operacional para o dia da prova de {{CONCURSO}}.
+
+Considere:
+
+- número de questões;
+
+- disciplinas/pesos;
+
+- duração;
+
+- meus pontos fortes e fracos;
+
+- existência de redação/prova discursiva, se houver;
+
+- regras do edital.
+
+Defina:
+
+- ordem sugerida de resolução;
+
+- controle de tempo;
+
+- quando pular uma questão;
+
+- como marcar dúvidas;
+
+- tempo de revisão final;
+
+- cuidados para evitar erros de cartão/gabarito.
+
+Não invente regras que não estejam no edital.
+
+SAÍDA ESPERADA  Plano operacional para o dia da prova.
+
+PARTE 9 — SITUAÇÕES ESPECIAIS
+Use os prompts desta seção conforme o estágio da preparação. Não é necessário usar todos; o valor está em 
+selecionar o prompt certo para o problema certo.
+
+50. Estou Cansado
+USE QUANDO Use quando a energia está baixa, mas ainda existe alguma 
+
+capacidade.
+
+ENTRADA MÍNIMA Tempo e nível de energia.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 28
+
+PROMPT PARA COPIAR
+Hoje estou cansado e tenho {{MINUTOS}} minutos possíveis.
+
+Não me dê uma aula pesada.
+
+Escolha uma atividade de baixo atrito e alto retorno entre:
+
+- revisão expressa;
+
+- banco de erros;
+
+- poucas questões;
+
+- recuperação ativa;
+
+- leitura curta do PDF de revisão.
+
+Se a melhor decisão for descansar por impacto em sono e retenção, diga isso de forma objetiva.
+
+SAÍDA ESPERADA  Sessão adequada ao nível de energia.
+
+51. Assunto Travado
+USE QUANDO Use quando está gastando tempo demais em um conteúdo.
