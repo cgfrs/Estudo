@@ -998,3 +998,188 @@ Responder o questionário de rotina. □
 Receber a verticalização do edital. □
 Criar um chat/espaço para cada disciplina. □
 Montar o ciclo inicial. □
+Pedir “O que estudar agora?” e executar o primeiro bloco. □
+A2. Ficha diária de estudo
+Campo Preenchimento
+Data ____/____/______
+<PARSED TEXT FOR PAGE: 40 / 46>
+StudyOS Concursos | Método de preparação com IA
+Página 40
+Campo Preenchimento
+Matéria ____________________________
+Assunto ____________________________
+Início/Fim ______ / ______
+Minutos líquidos ______
+Atividade □ □ □ □ aula questões revisão simulado
+Questões ______
+Acertos ______
+Principal erro/dúvida ________________________________________
+Próximo passo ________________________________________
+A3. Fechamento semanal
+Indicador Semana
+Horas líquidas ______
+Questões ______
+Acerto geral ______%
+Melhor matéria ________________
+Matéria de maior risco ________________
+Assuntos concluídos ________________
+Revisões vencidas ______
+Erro mais recorrente ________________
+Cobertura do edital ______%
+Ajuste principal da próxima semana ________________
+<PARSED TEXT FOR PAGE: 41 / 46>
+StudyOS Concursos | Método de preparação com IA
+Página 41
+A4. Exemplo completo fictício
+Candidata fictícia: Marina trabalha das 8h às 17h30, possui 2h livres em três noites, 3h no sábado e 2h no
+domingo. Faltam 10 semanas para a prova. O cargo tem Português (20%), Legislação (20%) e Específicos 
+(60%). Marina é forte em Português, mediana em específicos e fraca em legislação.
+Configuração
+Meta inicial: 11-12 horas líquidas/semana.
+Ciclo privilegia específicos, mas Legislação aparece com frequência superior ao peso por risco de baixo 
+desempenho.
+Português recebe menos teoria e mais questões/revisões.
+Primeiras duas semanas produzem diagnóstico; a distribuição muda depois disso.
+Semana 1 - exemplo
+Bloco Atividade
+1 Específico A - aula 1 + recall.
+2 Legislação - aula 1.
+3 Português - 20 questões + análise.
+4 Específico B - aula 1.
+5 Revisões D+1 + banco de erros.
+6 Legislação - questões focadas.
+7 Específico A - questões + correção.
+8 Fechamento semanal e ajuste.
+Diagnóstico fictício
+Após 80 questões: Português 85%, Legislação 52%, Específicos 68%. O sistema não aumenta Português 
+porque “é importante”; ele protege manutenção e transfere parte do tempo para Legislação e tópicos 
+específicos fracos. A revisão de Legislação é antecipada, e o próximo ciclo inclui baterias menores e 
+frequentes.
+<PARSED TEXT FOR PAGE: 42 / 46>
+StudyOS Concursos | Método de preparação com IA
+Página 42
+A5. Biblioteca de comandos rápidos
+O que estudo agora? Tenho 30 minutos.
+Terminei a aula. Me teste antes de avançar.
+Esses foram meus erros. Classifique e registre o que importa.
+Atualize meu PDF de revisão.
+Quais filtros uso na plataforma de questões?
+Tenho uma revisão vencida e uma aula em andamento. O que vem primeiro?
+Não estudei ontem. Reorganize sem dobrar minha carga.
+Faça meu fechamento da semana.
+Audite o edital e diga o que está sem cobertura.
+Faltam 30 dias. Mude meu plano para reta final.
+Monte um simulado misto com o que já estudei.
+Estou cansado e tenho 15 minutos. Escolha a melhor microtarefa.
+Minha taxa de acerto caiu. Investigue por quê.
+Quais erros estão se repetindo?
+Qual matéria está sendo negligenciada?
+O que posso deixar de aprofundar sem sair do edital?
+A6. Template de descrição do produto
+DESCRIÇÃO COMERCIAL EDITÁVEL
+StudyOS Concursos é um método de preparação com IA que organiza edital, rotina, matérias, questões, erros e 
+revisões em um fluxo único. Em vez de estudar de forma solta, o aluno configura uma Central de Estudos e ambientes 
+por disciplina. Cada assunto passa por aula, recuperação ativa, questões, correção e revisão. O painel acompanha 
+horas, acertos, cobertura e revisões para indicar o próximo passo. O método é adaptável a diferentes concursos e não 
+substitui edital oficial, dedicação do aluno ou fontes verificadas.
+A7. FAQ para clientes
+Preciso saber usar IA?
+Não. O produto deve entregar prompts prontos e uma sequência de implantação.
+<PARSED TEXT FOR PAGE: 43 / 46>
+StudyOS Concursos | Método de preparação com IA
+Página 43
+Serve para qualquer concurso?
+A arquitetura é genérica, mas cada concurso exige edital, banca, pesos e regras próprios.
+Preciso comprar curso?
+Não necessariamente. O método pode operar com materiais próprios, fontes oficiais, PDFs e vídeos 
+pontuais. Cursos podem ser complementares.
+Preciso de plataforma de questões?
+É altamente útil quando há banco de questões relevante, mas o método também pode funcionar com 
+provas oficiais e cadernos próprios.
+A IA pode errar?
+Sim. Por isso o sistema exige fonte oficial para informações mutáveis e separa evidência de inferência.
+O método garante aprovação?
+Não. Ele organiza e melhora o processo de preparação; resultado depende do desempenho do candidato 
+e do concurso.
+Posso estudar só por PDF?
+Pode, desde que inclua recuperação, questões e revisão. Leitura isolada não é o método.
+Se eu perder um dia?
+Continue o ciclo. Não tente transformar cada falta em dívida.
+Quando um assunto está dominado?
+Quando há evidência consistente em questões e retenção nas revisões.
+Posso usar outro assistente de IA?
+Sim, desde que ele consiga seguir as regras, trabalhar com os materiais fornecidos e manter o processo.
+A8. Roteiro de videoaula de onboarding
+Apresente o problema: excesso de conteúdo e falta de decisão.
+Mostre a arquitetura Central + matérias + painel.
+Explique que edital é fonte de verdade.
+Cole o Prompt Mestre ao vivo.
+Faça o questionário de rotina.
+<PARSED TEXT FOR PAGE: 44 / 46>
+StudyOS Concursos | Método de preparação com IA
+Página 44
+Mostre verticalização do edital.
+Crie um chat de matéria.
+Gere a primeira aula.
+Mostre o fluxo pós-aula com questões e erros.
+Abra o painel e registre a sessão.
+Mostre como perguntar “O que estudar agora?”.
+Finalize com limites: IA pode errar e não há garantia de aprovação.
+A9. Checklist comercial antes do lançamento
+Item OK
+Nome e identidade visual revisados. □
+Domínio/redes verificados. □
+Manual revisado por leitor externo. □
+Prompts testados em mais de um edital. □
+Painel testado em desktop e celular. □
+Backup/importação testados. □
+Termos de uso e privacidade revisados. □
+Política de suporte definida. □
+Fluxo de compra e entrega testado. □
+Página de vendas sem promessas indevidas. □
+Material de onboarding pronto. □
+FAQ pronto. □
+Versionamento definido. □
+Canal de atualizações definido. □
+Procedimento para corrigir erro factual após lançamento. □
+<PARSED TEXT FOR PAGE: 45 / 46>
+StudyOS Concursos | Método de preparação com IA
+Página 45
+A10. Roadmap recomendado de desenvolvimento
+Fase Entrega Objetivo
+MVP Manual + Prompt Pack + HTML local. Validar método e uso.
+1.1
+Templates de PDF + planilha + video 
+onboarding.
+Reduzir atrito.
+1.2
+Importação/exportação e relatórios 
+semanais.
+Melhorar continuidade.
+2.0 Web app com conta e sincronização. Escalar usuários.
+2.1 Automação de revisão/notificações. Aumentar adesão.
+3.0 Ecossistema para mentores/equipes. B2B/licenciamento.
+<PARSED TEXT FOR PAGE: 46 / 46>
+StudyOS Concursos | Método de preparação com IA
+Página 46
+Conclusão
+O maior diferencial do StudyOS Concursos não é produzir textos com IA. É transformar preparação em 
+um sistema observável e adaptativo. O estudante sabe o que estudar, o sistema sabe o que já foi feito, 
+questões produzem evidência, erros geram ações e revisões protegem a retenção. Isso reduz improviso e
+permite que a preparação evolua com dados reais.
+Para comercializar com responsabilidade, mantenha três compromissos: transparência sobre limites da 
+IA, fidelidade às fontes oficiais e ausência de promessas de aprovação. O produto deve vender clareza, 
+organização, personalização e método - não certezas que nenhum sistema pode garantir.
+FÓRMULA DO MÉTODO
+EDITAL + ROTINA + AULA + RECUPERAÇÃO + QUESTÕES + ERROS + REVISÃO + DADOS PRÓXIMA →
+MELHOR AÇÃO.
+Próximos ativos que podem acompanhar este manual
+StudyOS HTML personalizável.
+Planilha de acompanhamento.
+Kit de prompts em arquivo separado para copiar/colar.
+Modelo editável de PDF de aula.
+Modelo editável de PDF de revisão.
+Videoaula de onboarding.
+Checklist de lançamento para mentores.
+Pacote white-label com identidade visual do comprador/licenciado.
+FIM - Edição Comercial 1.0
