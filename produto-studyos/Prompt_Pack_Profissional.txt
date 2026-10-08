@@ -1,0 +1,1000 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+StudyOS Concursos — Prompt Pack Profissional
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 1
+
+STUDYOS CONCURSOS
+PROMPT PACK PROFISSIONAL
+
+59 prompts prontos para transformar uma IA em sistema de preparação para concursos
+
+APRENDER  →  TESTAR  →  ERRAR  →  CORRIGIR  →  REVISAR  →  REPETIR
+
+Edição comercial • Modelo universal • Personalizável para qualquer concurso
+
+[SUA MARCA / AUTOR]
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 2
+
+Antes de usar
+Este Prompt Pack foi desenhado como um sistema de trabalho. Os prompts funcionam melhor quando o 
+estudante fornece o edital oficial, informa sua rotina e registra resultados reais de questões. Nenhum prompt 
+substitui a leitura do edital, a verificação de normas vigentes ou o julgamento do candidato sobre suas próprias 
+decisões de estudo.
+
+Para uso comercial, personalize capa, marca, canais de suporte, política de atualização e termos de licença. Evite 
+promessas de aprovação garantida ou alegações de vínculo com bancas, órgãos públicos ou plataformas de 
+questões.
+
+Início rápido — como usar em 10 minutos
+1 Crie uma Central de Estudos — Cole o Prompt 1 e, depois, o Prompt 2.
+
+2 Envie o edital oficial — Use os Prompts 7 e 8 para auditar e verticalizar.
+
+3 Crie um chat por matéria — Use o Prompt 3 em cada disciplina.
+
+4 Monte o ciclo — Use os Prompts 11, 13 e 14.
+
+5 Comece a primeira aula — Use os Prompts 19 e 20.
+
+6 Teste o aprendizado — Use 23, 26/27, 29 e 30.
+
+7 Revise — Use 33 a 39.
+
+8 Gerencie por dados — Use 40 a 44 e, mais adiante, 45 a 49.
+
+Padrão de variáveis
+Substitua os campos entre chaves antes de enviar o prompt. Se um dado não se aplicar, remova a linha. 
+Exemplos: {{CONCURSO}}  {{CARGO}}  {{BANCA}}  {{DATA_DA_PROVA}}  {{DISCIPLINA}}  {{ASSUNTO}}  
+{{TEMPO_DISPONIVEL}} 
+
+Mapa do Prompt Pack
+Parte Tema Prompts
+1 CONFIGURAÇÃO DO SISTEMA 1–6
+2 EDITAL, BANCA E ESTRATÉGIA 7–12
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 3
+
+Parte Tema Prompts
+3 PLANEJAMENTO E CICLO 13–18
+4 AULAS E APRENDIZAGEM ATIVA 19–25
+5 QUESTÕES, BANCA E BANCO 
+
+DE ERROS
+26–32
+
+6 REVISÃO E RETENÇÃO 33–39
+7 MÉTRICAS, FECHAMENTO E 
+
+AJUSTES
+40–44
+
+8 SIMULADOS E RETA FINAL 45–49
+9 SITUAÇÕES ESPECIAIS 50–54
+10 STUDYOS, REGISTROS E 
+
+AUTOMAÇÃO
+55–59
+
+PARTE 1 — CONFIGURAÇÃO DO SISTEMA
+Use os prompts desta seção conforme o estágio da preparação. Não é necessário usar todos; o valor está em 
+selecionar o prompt certo para o problema certo.
+
+1. Prompt Mestre Universal
+USE QUANDO Use uma única vez, no início da preparação, para 
+
+transformar o chat em coordenador de estudos.
+
+ENTRADA MÍNIMA Concurso, cargo, banca, data da prova, rotina, experiência e 
+edital.
+
+PROMPT PARA COPIAR
+A partir de agora, atue como meu Coordenador, Professor e Monitor de Estudos para concursos.
+
+DADOS DA PREPARAÇÃO
+
+- Concurso: {{CONCURSO}}
+
+- Cargo: {{CARGO}}
+
+- Banca: {{BANCA}}
+
+- Data da prova: {{DATA_DA_PROVA}}
+
+- Minha rotina: {{ROTINA}}
+
+- Minha experiência anterior: {{EXPERIENCIA}}
+
+- Meta semanal disponível: {{HORAS_SEMANAIS}}
+
+REGRAS CENTRAIS
+
+1. Use o edital oficial como referência principal e controle todos os tópicos exigidos.
+
+2. Organize as matérias em ordem pedagógica, não necessariamente na ordem literal do edital.
+
+3. Trabalhe por CICLO DE MATÉRIAS. Se eu perder um dia, continue do ponto do ciclo em que parei; 
+não transforme atraso em dívida acumulada.
+
+4. Para cada assunto, siga: Aula/PDF completo -> estudo -> recuperação ativa -> questões da banca 
+-> análise dos erros -> revisão -> próximo assunto.
+
+5. Não considere um assunto dominado só porque eu o li. Exija evidências por questões e revisões.
+
+6. Mantenha um Banco de Erros com causa do erro, correção e regra para lembrar.
+
+7. Use revisões espaçadas como ponto de partida em D+1, D+7 e D+30, ajustando pelos resultados.
+
+8. Distribua meu tempo considerando peso da disciplina, quantidade de questões, dificuldade, 
+extensão e meu desempenho real.
+
+9. Quando eu perguntar “O que estudar hoje?” ou “O que estudar agora?”, dê uma decisão objetiva: 
+matéria, assunto, duração, objetivo e atividade.
+
+10. Avise quando eu estiver negligenciando matérias, revisões, questões, sono, consistência ou 
+usando material em excesso.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 4
+
+11. À medida que a prova se aproximar, reduza teoria nova e aumente questões, revisões, banco de 
+erros e simulados.
+
+12. Se precisar de informação atual, edital, lei, cronograma ou prova recente, verifique em fonte 
+confiável. Não invente.
+
+13. Sempre diferencie fatos extraídos do edital, análise estratégica e sugestão de estudo.
+
+MÉTRICAS A ACOMPANHAR
+
+- horas líquidas por semana;
+
+- assuntos concluídos;
+
+- questões resolvidas;
+
+- percentual de acertos;
+
+- revisões realizadas e vencidas;
+
+- cobertura do edital;
+
+- matérias fortes e fracas;
+
+- erros recorrentes.
+
+Antes de começar a ensinar, faça uma auditoria do edital e apresente a arquitetura completa da 
+preparação.
+
+SAÍDA ESPERADA  Mapa do concurso, regras do método, matérias, ciclo inicial e próximas ações.
+
+2. Central de Comando
+USE QUANDO Use no chat principal que coordenará todos os chats de 
+
+matérias.
+
+ENTRADA MÍNIMA Lista de matérias/chats e acesso ao histórico do projeto 
+quando disponível.
+
+PROMPT PARA COPIAR
+Você é a CENTRAL DE COMANDO da minha preparação para {{CONCURSO}} - {{CARGO}}.
+
+Sua função não é substituir os chats das matérias. Sua função é coordená-los.
+
+Responsabilidades:
+
+- acompanhar o estágio de cada disciplina;
+
+- decidir a próxima matéria do ciclo;
+
+- controlar revisões e questões pendentes;
+
+- identificar atrasos, desequilíbrios e matérias negligenciadas;
+
+- ajustar a carga semanal;
+
+- consolidar resultados de simulados;
+
+- manter visão de cobertura do edital;
+
+- dizer exatamente o que estudar quando eu perguntar.
+
+Estados possíveis de cada assunto:
+
+NÃO ESTUDADO -> EM ESTUDO -> ESTUDADO -> QUESTÕES REALIZADAS -> EM REVISÃO -> DOMINADO.
+
+Nunca avance um assunto para DOMINADO apenas por leitura. Considere acertos, retenção e revisões.
+
+Quando houver dados dos outros chats deste mesmo projeto, consulte-os antes de pedir que eu 
+repita informações já registradas.
+
+Ao final, mantenha um painel textual com:
+
+1. posição atual no ciclo;
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 5
+
+2. próxima sessão;
+
+3. revisões vencidas;
+
+4. matéria mais fraca;
+
+5. matéria mais forte;
+
+6. cobertura aproximada do edital;
+
+7. meta semanal e horas realizadas.
+
+SAÍDA ESPERADA  Painel consolidado e coordenação contínua.
+
+3. Criar um Chat de Matéria
+USE QUANDO Use como primeira mensagem de cada disciplina.
+
+ENTRADA MÍNIMA Nome da disciplina, cargo, banca e edital.
+
+PROMPT PARA COPIAR
+Este chat será dedicado exclusivamente à disciplina {{DISCIPLINA}} do concurso {{CONCURSO}}, 
+cargo {{CARGO}}, banca {{BANCA}}.
+
+Aplique a mesma Regra-Mestra da minha preparação.
+
+Neste chat:
+
+- cubra TODO o conteúdo dessa disciplina previsto no edital;
+
+- organize os assuntos em ordem pedagógica;
+
+- ensine somente até a profundidade útil para a prova;
+
+- destaque palavras-chave, classificações, diferenças, exceções e pegadinhas;
+
+- produza um PDF/Aula completo para cada novo assunto;
+
+- após eu estudar, conduza recuperação ativa e questões da banca;
+
+- registre meus erros;
+
+- mantenha um PDF de Revisão cumulativo e personalizado;
+
+- não avance para o próximo assunto antes de testar o atual;
+
+- informe à Central de Comando, quando solicitado, meu estágio nesta matéria.
+
+Primeiro, apresente apenas o mapa pedagógico desta disciplina, sem iniciar a aula ainda.
+
+SAÍDA ESPERADA  Plano pedagógico específico da disciplina.
+
+4. Onboarding do Estudante
+USE QUANDO Use para coletar as informações mínimas antes de montar o 
+
+cronograma.
+
+ENTRADA MÍNIMA Nenhuma; o próprio prompt faz as perguntas.
+
+PROMPT PARA COPIAR
+Antes de montar qualquer cronograma, faça meu onboarding como estudante de concurso.
+
+Pergunte, em blocos curtos:
+
+1. concurso, cargo, banca e data da prova;
+
+2. se já existe edital publicado e se posso anexá-lo;
+
+3. experiência prévia em concursos;
+
+4. formação e familiaridade com as matérias;
+
+5. rotina de trabalho, deslocamento, sono, treino e família;
+
+6. horários realmente disponíveis, inclusive microjanelas;
+
+7. materiais/plataformas já assinados;
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 6
+
+8. quantidade de horas que consigo sustentar por semana;
+
+9. principais dificuldades anteriores ao estudar;
+
+10. preferências de aprendizagem: leitura, exercícios, vídeo, explicação visual, prática.
+
+Não monte o plano antes de ter informações suficientes. Ao final, resuma meu perfil de estudo e 
+proponha uma carga inicial sustentável.
+
+SAÍDA ESPERADA  Perfil realista de estudo e capacidade semanal.
+
+5. Reinicialização de Contexto
+USE QUANDO Use quando o chat ficou longo, confuso ou começou a 
+
+contradizer o método.
+
+ENTRADA MÍNIMA Resumo atual da preparação, se necessário.
+
+PROMPT PARA COPIAR
+Reoriente esta conversa para o método StudyOS Concursos.
+
+Considere como regras prioritárias:
+
+- edital oficial como escopo;
+
+- ciclo de matérias;
+
+- aula -> recuperação ativa -> questões -> erros -> revisão;
+
+- decisões orientadas por desempenho;
+
+- nenhum assunto dominado apenas por leitura;
+
+- revisões espaçadas;
+
+- foco no estilo da banca;
+
+- rotina sustentável;
+
+- respostas objetivas quando eu perguntar o que estudar.
+
+Agora reconstrua, com base no histórico disponível, apenas:
+
+1. onde estamos;
+
+2. o que está concluído;
+
+3. o que está pendente;
+
+4. qual é o próximo passo.
+
+Não reinicie conteúdos já consolidados sem motivo.
+
+SAÍDA ESPERADA  Contexto limpo e continuidade correta.
+
+6. Transferência entre Chats
+USE QUANDO Use quando precisar levar o estado de uma matéria para a 
+
+Central ou para outro chat.
+
+ENTRADA MÍNIMA Histórico da matéria.
+
+PROMPT PARA COPIAR
+Gere um RESUMO DE HANDOFF desta disciplina para eu levar ao meu chat Central de Estudos.
+
+Inclua somente informações operacionais:
+
+- disciplina;
+
+- assuntos estudados;
+
+- assunto atual;
+
+- questões realizadas por assunto;
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 7
+
+- taxa de acerto;
+
+- erros recorrentes;
+
+- revisões já feitas;
+
+- revisões pendentes;
+
+- PDFs de aula existentes;
+
+- versão atual do PDF de revisão;
+
+- nível de domínio por assunto;
+
+- próximo passo recomendado.
+
+Não repita a teoria. O objetivo é permitir que outro chat continue o gerenciamento sem perder 
+contexto.
+
+SAÍDA ESPERADA  Resumo portátil da disciplina.
+
+PARTE 2 — EDITAL, BANCA E ESTRATÉGIA
+Use os prompts desta seção conforme o estágio da preparação. Não é necessário usar todos; o valor está em 
+selecionar o prompt certo para o problema certo.
+
+7. Auditoria Completa do Edital
+USE QUANDO Use assim que tiver o edital oficial.
+
+ENTRADA MÍNIMA Edital oficial anexado ou link oficial.
+
+PROMPT PARA COPIAR
+Analise o edital oficial anexado de {{CONCURSO}} - {{CARGO}}.
+
+Faça uma auditoria completa e não dependa de resumos de terceiros.
+
+Entregue:
+
+1. disciplinas cobradas;
+
+2. número de questões e pesos, quando informados;
+
+3. conteúdo programático verticalizado, sem omissões;
+
+4. critérios mínimos de aprovação/eliminações;
+
+5. datas importantes;
+
+6. requisitos do cargo;
+
+7. etapas do concurso;
+
+8. tópicos que exigem legislação atualizada;
+
+9. pontos ambíguos que merecem confirmação;
+
+10. checklist final “edital coberto”.
+
+Diferencie claramente o que está escrito no edital do que é inferência estratégica.
+
+Se algum dado não estiver no documento, diga “não localizado no edital” em vez de completar por 
+suposição.
+
+SAÍDA ESPERADA  Edital verticalizado e checklist de cobertura.
+
+8. Verticalização do Conteúdo
+USE QUANDO Use para transformar o conteúdo programático em itens 
+
+controláveis.
+
+ENTRADA MÍNIMA Trecho do conteúdo programático.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 8
+
+PROMPT PARA COPIAR
+Transforme o conteúdo programático de {{DISCIPLINA}} em uma lista verticalizada para controle de 
+estudo.
+
+Regras:
+
+- preserve todos os itens do edital;
+
+- quebre tópicos amplos em subtópicos estudáveis;
+
+- não acrescente conteúdos fora do edital sem marcá-los como complemento;
+
+- agrupe itens relacionados em uma ordem pedagógica;
+
+- atribua um código a cada item, como PT-01, PT-02 ou BD-01;
+
+- inclua colunas: código, assunto, subtópicos, status, prioridade, questões, acerto, revisão.
+
+No final, indique quais itens dependem de pré-requisitos conceituais.
+
+SAÍDA ESPERADA  Matriz rastreável do edital.
+
+9. Análise 80/20 da Banca
+USE QUANDO Use depois de identificar a banca e ter acesso a provas 
+
+anteriores.
+
+ENTRADA MÍNIMA Banca, disciplina e período desejado.
+
+PROMPT PARA COPIAR
+Faça uma análise 80/20 da banca {{BANCA}} para a disciplina {{DISCIPLINA}}.
+
+Pesquise provas e questões reais localizáveis, priorizando fontes oficiais ou plataformas 
+confiáveis.
+
+Quero:
+
+- temas mais recorrentes;
+
+- formas de cobrança mais frequentes;
+
+- conceitos que a banca costuma confundir;
+
+- perfil das alternativas erradas;
+
+- nível de literalidade x interpretação;
+
+- assuntos raros, mas perigosos;
+
+- tendências recentes, quando houver base suficiente.
+
+Não invente percentuais se a amostra não permitir. Informe o tamanho e o período da amostra 
+quando possível.
+
+Ao final, classifique os assuntos como ALTA, MÉDIA ou BAIXA PRIORIDADE para estudo, deixando 
+claro que a prioridade combina recorrência com o edital atual.
+
+SAÍDA ESPERADA  Mapa de incidência e estilo da banca.
+
+10. Comparar Edital com Provas Anteriores
+USE QUANDO Use para detectar o que mudou e onde pode haver 
+
+novidade.
+
+ENTRADA MÍNIMA Edital atual + provas anteriores da mesma banca/cargo ou 
+área.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 9
+
+PROMPT PARA COPIAR
+Compare o edital atual de {{CONCURSO}} com provas anteriores relevantes da banca {{BANCA}}.
+
+Identifique:
+
+- conteúdos recorrentes que permanecem;
+
+- conteúdos novos no edital atual;
+
+- conteúdos retirados;
+
+- tópicos que a banca já cobrou com frequência;
+
+- tópicos novos que exigem estudo teórico porque ainda há poucas questões;
+
+- possíveis mudanças de enfoque.
+
+Não trate ausência de questões passadas como sinal de que o conteúdo não cairá. O edital atual é 
+soberano.
+
+SAÍDA ESPERADA  Mapa de continuidade e novidades.
+
+11. Matriz de Prioridade
+USE QUANDO Use para definir onde colocar mais horas.
+
+ENTRADA MÍNIMA Peso das matérias, extensão, desempenho e incidência da 
+banca.
+
+PROMPT PARA COPIAR
+Crie uma MATRIZ DE PRIORIDADE de estudo para minhas disciplinas.
+
+Considere quatro fatores:
+
+A. peso/quantidade de pontos na prova;
+
+B. extensão e dificuldade do edital;
+
+C. incidência histórica da banca;
+
+D. meu desempenho atual em questões.
+
+Não use apenas um fator.
+
+Classifique cada matéria em prioridade ALTA, MÉDIA ou BAIXA e explique objetivamente o motivo.
+
+Depois converta isso em percentuais aproximados da minha carga semanal, mantendo contato 
+periódico com todas as disciplinas exigidas.
+
+SAÍDA ESPERADA  Distribuição racional das horas.
+
+12. Auditoria de Cobertura
+USE QUANDO Use semanalmente ou quinzenalmente para evitar buracos 
+
+no edital.
+
+ENTRADA MÍNIMA Status dos assuntos.
+
+PROMPT PARA COPIAR
+Audite minha cobertura do edital.
+
+Para cada item verticalizado, classifique:
+
+- não iniciado;
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 10
+
+- em estudo;
+
+- teoria concluída;
+
+- questões concluídas;
+
+- em revisão;
+
+- domínio provisório.
+
+Aponte:
+
+1. tópicos esquecidos;
+
+2. tópicos que estão há muito tempo sem contato;
+
+3. matérias excessivamente estudadas;
+
+4. matérias negligenciadas;
+
+5. conteúdo que está consumindo tempo demais para o retorno provável.
+
+No final, indique no máximo 5 correções de rota prioritárias.
+
+SAÍDA ESPERADA  Auditoria de lacunas e excesso de foco.
+
+PARTE 3 — PLANEJAMENTO E CICLO
+Use os prompts desta seção conforme o estágio da preparação. Não é necessário usar todos; o valor está em 
+selecionar o prompt certo para o problema certo.
+
+13. Montar o Ciclo de Matérias
+USE QUANDO Use depois da auditoria do edital e do onboarding.
+
+ENTRADA MÍNIMA Matérias, prioridades, rotina e horas semanais.
+
+PROMPT PARA COPIAR
+Monte meu ciclo de estudos para {{CONCURSO}}.
+
+Regras:
+
+- trabalhe por ciclo, não por calendário rígido;
+
+- alterne matérias para manter contato frequente com o edital;
+
+- dê mais blocos às disciplinas de maior prioridade;
+
+- não coloque todas as matérias pesadas em sequência;
+
+- inclua blocos de questões e revisão;
+
+- considere minha rotina real e meus treinos/compromissos;
+
+- se eu perder uma sessão, continuo do ponto do ciclo em que parei;
+
+- mantenha uma versão simples que eu consiga executar sem decidir o que vem depois.
+
+Entregue:
+
+1. ordem do ciclo;
+
+2. duração recomendada de cada bloco;
+
+3. regra para avançar;
+
+4. regra para retornar à mesma matéria;
+
+5. como encaixar revisões D+1, D+7 e D+30 em paralelo.
+
+SAÍDA ESPERADA  Ciclo executável e resiliente a imprevistos.
+
+14. Cronograma pela Rotina Real
+USE QUANDO Use quando quiser encaixar o ciclo nos horários disponíveis.
+
+ENTRADA MÍNIMA Rotina semanal detalhada.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 11
+
+PROMPT PARA COPIAR
+Com base nesta rotina: {{ROTINA}}, transforme meu ciclo de estudos em uma agenda sustentável.
+
+Separe:
+
+- blocos de alta concentração para conteúdo novo;
+
+- blocos médios para questões;
+
+- microjanelas para revisão;
+
+- dias de descanso ou baixa carga;
+
+- períodos que não devem receber estudo pesado por cansaço/sono.
+
+Não maximize horas a qualquer custo. Maximize horas líquidas de qualidade.
+
+Mostre uma semana-modelo e uma meta mínima, normal e excelente de horas líquidas.
+
+SAÍDA ESPERADA  Agenda compatível com vida real.
+
+15. Plano Semanal Dinâmico
+USE QUANDO Use no início de cada semana.
+
+ENTRADA MÍNIMA Resultados da semana anterior + disponibilidade da nova 
+semana.
+
+PROMPT PARA COPIAR
+Monte meu plano para esta semana.
+
+Use:
+
+- posição atual no ciclo;
+
+- revisões vencidas;
+
+- percentual de acertos por matéria;
+
+- assuntos ainda não vistos;
+
+- peso das disciplinas;
+
+- horas disponíveis nesta semana.
+
+Quero um plano com prioridades, não uma lista impossível.
+
+Defina:
+
+1. meta de horas líquidas;
+
+2. matérias que obrigatoriamente precisam aparecer;
+
+3. revisões críticas;
+
+4. volume de questões;
+
+5. um bloco de segurança para imprevistos;
+
+6. critério para considerar a semana satisfatória.
+
+SAÍDA ESPERADA  Semana planejada por dados.
+
+16. O que Estudar Hoje?
+USE QUANDO Use diariamente.
+
+ENTRADA MÍNIMA Contexto atualizado da preparação.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 12
+
+PROMPT PARA COPIAR
+Com base no meu ciclo, revisões pendentes, desempenho e tempo disponível hoje, diga exatamente o 
+que devo estudar.
+
+Tempo disponível hoje: {{TEMPO_DISPONIVEL}}.
+
+Não me dê várias opções. Tome uma decisão.
+
+Informe:
+
+- matéria;
+
+- assunto;
+
+- duração;
+
+- objetivo do bloco;
+
+- se é teoria, questões, revisão ou simulado;
+
+- como dividir o tempo;
+
+- o que eu devo fazer ao terminar.
+
+Se houver revisão vencida mais importante que conteúdo novo, priorize a revisão.
+
+SAÍDA ESPERADA  Uma próxima ação sem fadiga decisória.
+
+17. O que Estudar Agora?
+USE QUANDO Use para microdecisões durante o dia.
+
+ENTRADA MÍNIMA Tempo disponível agora.
+
+PROMPT PARA COPIAR
+Tenho {{MINUTOS}} minutos disponíveis agora.
+
+Escolha a atividade com maior retorno para minha preparação neste momento.
+
+Priorize, conforme o caso:
+
+1. revisão vencida;
+
+2. recuperação ativa;
+
+3. poucas questões de um assunto já estudado;
+
+4. continuação de um PDF;
+
+5. correção de erros.
+
+Não inicie um conteúdo grande se o tempo não permitir fechamento mínimo.
+
+Dê instruções em formato de cronômetro, por exemplo: 10 min + 15 min + 5 min.
+
+SAÍDA ESPERADA  Microbloco objetivo.
+
+18. Recuperar Dia Perdido
+USE QUANDO Use quando não estudou no dia anterior.
+
+ENTRADA MÍNIMA O que foi perdido + agenda de hoje.
+
+PROMPT PARA COPIAR
+Ontem eu não consegui estudar.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 13
+
+Não tente compensar dobrando automaticamente a carga.
+
+Recalcule meu próximo passo no ciclo e incorpore apenas o que for realmente prioritário.
+
+Verifique:
+
+- se havia revisão com prazo;
+
+- se havia assunto em andamento;
+
+- se a perda cria risco de ficar muitos dias sem determinada matéria.
+
+Depois diga o que fazer hoje dentro de {{TEMPO_DISPONIVEL}} e como o ciclo seguirá sem 
+transformar o atraso em dívida.
+
+SAÍDA ESPERADA  Recuperação sem culpa nem efeito bola de neve.
+
+PARTE 4 — AULAS E APRENDIZAGEM ATIVA
+Use os prompts desta seção conforme o estágio da preparação. Não é necessário usar todos; o valor está em 
+selecionar o prompt certo para o problema certo.
+
+19. Gerar Aula Completa
+USE QUANDO Use no início de cada novo assunto.
+
+ENTRADA MÍNIMA Assunto + edital + banca.
+
+PROMPT PARA COPIAR
+Crie uma AULA COMPLETA sobre {{ASSUNTO}} para {{CONCURSO}} - {{CARGO}}, banca {{BANCA}}.
+
+Use o edital como limite de escopo.
+
+Estrutura obrigatória:
+
+1. visão intuitiva: o que é e para que serve;
+
+2. conceitos fundamentais;
+
+3. classificações e componentes;
+
+4. exemplos concretos;
+
+5. diferenças entre conceitos parecidos;
+
+6. exceções e detalhes importantes;
+
+7. pegadinhas prováveis da banca;
+
+8. foco 80/20 com base em provas reais localizáveis, quando disponível;
+
+9. quadro “o que preciso lembrar na prova”;
+
+10. perguntas de recuperação ativa;
+
+11. mini-checklist de domínio.
+
+Explique com linguagem clara, mas não simplifique a ponto de omitir o que a prova pode cobrar.
+
+Não inclua gabarito de questões que eu ainda não respondi.
+
+SAÍDA ESPERADA  Aula estruturada e orientada à prova.
+
+20. Gerar PDF de Aula
+USE QUANDO Use após aprovar o conteúdo da aula.
+
+ENTRADA MÍNIMA Conteúdo completo da aula.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 14
+
+PROMPT PARA COPIAR
+Transforme a aula de {{ASSUNTO}} em um PDF profissional de estudo.
+
+O PDF deve ter:
+
+- capa com disciplina e assunto;
+
+- sumário simples;
+
+- teoria essencial completa;
+
+- boxes de atenção e pegadinhas;
+
+- tabelas comparativas quando úteis;
+
+- exemplos;
+
+- palavras-chave em destaque;
+
+- seção “80/20 da banca”, somente quando houver base real;
+
+- recuperação ativa ao final;
+
+- checklist “pronto para questões?”.
+
+O material deve ser confortável para leitura em tela e impressão.
+
+Não transforme a aula em resumo excessivo. Este PDF é o material de APRENDIZADO; o PDF de revisão 
+será separado.
+
+SAÍDA ESPERADA  PDF de aula pronto para estudar.
+
+21. Explicar de Outro Jeito
+USE QUANDO Use quando a primeira explicação não funcionou.
+
+ENTRADA MÍNIMA Trecho ou conceito difícil.
+
+PROMPT PARA COPIAR
