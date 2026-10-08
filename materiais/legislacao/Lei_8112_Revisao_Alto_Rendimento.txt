@@ -1,0 +1,570 @@
+<PARSED TEXT FOR PAGE: 1 / 13>
+                                                                           IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+
+
+
+                              LEI 8.112/1990
+               REVISÃO DE ALTO RENDIMENTO
+                     Provimento • Posse • Exercício • Estágio Probatório
+                    Aproveitamento • Remoção • Redistribuição • Vacância
+
+
+                          IFPA 2026 • Cargo 402 • Instituto AOCP
+                     Material personalizado a partir das questões resolvidas em 08/10/2026
+
+
+
+
+OBJETIVO
+Revisar exatamente os pontos cobrados nas questões resolvidas, corrigir a confusão entre provimento,
+investidura e posse e transformar o conteúdo em memória de prova.
+
+
+
+MODO DE USO
+Leia uma vez com atenção. Depois use as páginas “Pegadinhas AOCP” e “Revisão de 5 minutos” em D+1 e
+D+7. Faça o mini-simulado sem consultar o material.
+
+
+
+
+                               Monitor IFPA Estudos • versão personalizada
+
+
+
+
+                                                                                                            Página 1
+<PARSED TEXT FOR PAGE: 2 / 13>
+                                                                                       IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+1. Diagnóstico do seu bloco
+O material começa pelo que as questões mostraram - não por teoria genérica.
+
+  RESULTADO DO BLOCO
+  2 acertos em 3 questões = 66,7%. O desempenho foi suficiente para mostrar que a base existe, mas
+  revelou uma lacuna pontual que merece correção imediata.
+
+
+
+                     ERRO                                  ACERTO                                   ACERTO
+           Provimento × posse                       Estágio probatório                   Aproveitamento / remoção
+     Você marcou que o provimento            Você reconheceu corretamente os           Você reconheceu corretamente o
+     ocorreria com a posse. A lei diz: a     cinco fatores: assiduidade, disciplina,   retorno do servidor em
+     investidura ocorre com a posse.         iniciativa, produtividade e               disponibilidade por aproveitamento e
+                                             responsabilidade.                         descartou pegadinhas sobre
+                                                                                       remoção/redistribuição.
+
+
+
+
+  PRIORIDADE DO CADERNO DE ERROS
+  PROVIMENTO ≠ INVESTIDURA ≠ POSSE ≠ EXERCÍCIO. Essa distinção passa a ser um ponto de revisão
+  ativa até você demonstrar domínio posteriormente sem consulta.
+
+
+
+Mapa de prioridade
+        Estado                             Conteúdo                                              Ação
+
+   VERMELHO            Provimento × investidura × posse                    Corrigir agora e retestar em questão futura.
+
+   VERDE               Fatores do estágio probatório                       Revisão espaçada normal.
+
+   VERDE               Aproveitamento                                      Revisão espaçada normal.
+
+   VERDE               Remoção × redistribuição                            Manter comparação curta para evitar troca de
+                                                                           sujeito: servidor × cargo.
+
+
+
+
+                                                                                                                          Página 2
+<PARSED TEXT FOR PAGE: 3 / 13>
+                                                                            IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+2. O núcleo que você precisa acertar sem pensar
+A maior pegadinha deste bloco nasce de quatro palavras parecidas, mas juridicamente diferentes.
+
+         ETAPA                         O que significa                               Frase de prova
+
+    PROVIMENTO         Preenchimento de um cargo público por uma das     “O provimento dos cargos públicos far-
+                       formas previstas em lei.                          se-á mediante ato da autoridade
+                                                                         competente.”
+
+    INVESTIDURA        Aquisição da condição jurídica de ocupante do     “A investidura em cargo público ocorrerá
+                       cargo.                                            com a posse.”
+
+    POSSE              Assinatura do termo de posse; só existe no        Prazo: 30 dias da publicação do ato de
+                       provimento por nomeação.                          provimento.
+
+    EXERCÍCIO          Efetivo desempenho das atribuições do             Prazo: 15 dias contados da posse.
+                       cargo/função.
+
+
+
+  MEMÓRIA DE PROVA
+  Pense assim: o cargo é PROV-IDO; a pessoa é INVEST-IDA com a POSSE; e começa a trabalhar no
+  EXERCÍCIO.
+
+
+
+Consequências que a AOCP pode trocar
+                        Situação                                         Consequência correta
+
+    Não tomou posse em 30 dias                           O ato de provimento é tornado sem efeito.
+
+    Tomou posse, mas não entrou em exercício em 15       O servidor é exonerado do cargo.
+    dias
+
+    Posse                                                Pode ocorrer mediante procuração específica.
+
+    Posse                                                Só há posse no caso de provimento por nomeação.
+
+
+
+  PEGADINHA DA SUA QUESTÃO
+  A alternativa “o provimento dos cargos públicos dar-se-á com a posse” está errada. Troque mentalmente
+  “provimento” por “investidura” e a frase fica correta.
+
+
+
+
+                                                                                                              Página 3
+<PARSED TEXT FOR PAGE: 4 / 13>
+                                                                                IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+3. Formas de provimento - o mapa completo
+Art. 8º da Lei 8.112/1990. Este quadro evita confundir institutos de retorno e mudança funcional.
+
+          Forma                                  Ideia central                                 Gatilho mental
+
+    Nomeação             Forma originária de ingresso; pode ser para cargo efetivo ou    ENTRAR
+                         em comissão.
+
+    Promoção             Desenvolvimento do servidor na carreira.                        SUBIR
+
+    Readaptação          Investidura em cargo compatível com limitação física ou         LIMITAÇÃO
+                         mental.
+
+    Reversão             Retorno à atividade de servidor aposentado, nas hipóteses       APOSENTADO VOLTA
+                         legais.
+
+    Aproveitamento       Retorno do servidor que estava em disponibilidade.              DISPONÍVEL VOLTA
+
+    Reintegração         Retorno do servidor estável quando sua demissão é               DEMISSÃO ANULADA
+                         invalidada.
+
+    Recondução           Retorno do servidor estável ao cargo anteriormente ocupado.     VOLTA AO CARGO
+                                                                                         ANTERIOR
+
+
+
+  DECORE A LÓGICA, NÃO SÓ A LISTA
+  A AOCP costuma construir alternativas com definições trocadas. Se você souber “quem volta de onde e por
+  quê”, elimina várias opções sem decorar frases inteiras.
+
+
+
+Duas formas que também geram vacância
+ • Promoção: ao mesmo tempo em que provê o novo posicionamento, deixa vago o anterior.
+ • Readaptação: também aparece como forma de vacância do cargo anterior.
+
+  PEGADINHA CLÁSSICA
+  Promoção e readaptação aparecem tanto no capítulo de provimento quanto na lista de causas de vacância.
+  Isso não é contradição.
+
+
+
+
+                                                                                                                 Página 4
+<PARSED TEXT FOR PAGE: 5 / 13>
+                                                                              IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+4. Retornos: o quadro que mais economiza tempo em
+prova
+Leia a coluna “de onde vem” primeiro. Ela normalmente entrega a resposta.
+
+        Instituto         De onde vem?                    Por que retorna?                       Ponto-chave
+
+    Reversão          Aposentadoria         Hipóteses legais de retorno do aposentado.      APOSENTADO
+
+    Reintegração      Demissão              Demissão do servidor estável foi invalidada.    Ressarcimento das
+                                                                                            vantagens
+
+    Recondução        Outro cargo / cargo   Inabilitação em estágio probatório de outro     Servidor estável
+                      anterior              cargo OU reintegração do anterior ocupante.
+
+    Aproveitamento    Disponibilidade       Retorno obrigatório à atividade em cargo        Disponibilidade
+                                            compatível.
+
+    Readaptação       Cargo atual           Limitação física ou mental exige cargo          Não é “retorno”; é
+                                            compatível.                                     adequação
+
+
+
+
+  QUESTÃO QUE VOCÊ ACERTOU
+  “O retorno à atividade de servidor em disponibilidade far-se-á mediante aproveitamento obrigatório em
+  cargo de atribuições e vencimentos compatíveis com o anteriormente ocupado.” Essa é a essência do art.
+  30.
+
+
+
+Atalho de eliminação
+• Aposentado? Pense primeiro em REVERSÃO.
+• Demitido e demissão anulada? REINTEGRAÇÃO.
+• Não passou no probatório de outro cargo e era estável? RECONDUÇÃO.
+• Em disponibilidade? APROVEITAMENTO.
+• Limitação física/mental? READAPTAÇÃO.
+
+
+
+
+                                                                                                                 Página 5
+<PARSED TEXT FOR PAGE: 6 / 13>
+                                                                                   IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+5. Estágio probatório - memorize o que realmente cai
+Sua questão cobrou os fatores de avaliação. Aqui está o núcleo de prova.
+
+
+             A                      D                       C                       P                         R
+         Assiduidade             Disciplina           Capacidade de            Produtividade         Responsabilidade
+                                                        iniciativa
+
+
+
+
+  MNEMÔNICO
+  A-D-C-P-R: Assiduidade, Disciplina, Capacidade de iniciativa, Produtividade e Responsabilidade.
+
+
+                   Tema                                               Regra para a prova
+
+    Início                              O estágio probatório conta do início do efetivo exercício no cargo.
+
+    Duração atual no Executivo          36 meses para as nomeações alcançadas pelo Decreto 12.374/2025.
+    federal
+
+    Não aprovado                        Exoneração; se o servidor já era estável, recondução ao cargo anteriormente
+                                        ocupado.
+
+    Avaliação                           Os cinco fatores acima permanecem o núcleo legal de avaliação.
+
+
+
+  ATENÇÃO À ATUALIZAÇÃO
+  O texto compilado do art. 20 ainda exibe a redação histórica de 24 meses, mas o Decreto 12.374/2025
+  estabelece 36 meses para o estágio probatório no âmbito do Sipec nas nomeações alcançadas pelo
+  decreto. Para questões atuais, observe o recorte temporal e o comando.
+
+
+
+
+                                                                                                                    Página 6
+<PARSED TEXT FOR PAGE: 7 / 13>
+                                                                            IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+6. Remoção × Redistribuição
+Esta comparação vale ouro porque a banca troca propositalmente “servidor” por “cargo”.
+
+                 Critério                    REMOÇÃO                               REDISTRIBUIÇÃO
+
+    O que se desloca?        O SERVIDOR.                               O CARGO efetivo, ocupado ou vago.
+
+    Âmbito                   Mesmo quadro.                             Para outro órgão ou entidade do mesmo
+                                                                       Poder.
+
+    Iniciativa               A pedido ou de ofício, conforme           Ocorre ex officio para ajuste de
+                             modalidade.                               lotação/força de trabalho.
+
+    Mudança de sede          Pode ocorrer com ou sem mudança de        O foco legal é o deslocamento do cargo.
+                             sede.
+
+    Palavra-chave            SERVIDOR                                  CARGO
+
+
+
+  FRASE CORRETA DA QUESTÃO
+  “Remoção é o deslocamento do servidor, a pedido ou de ofício, no âmbito do mesmo quadro, com ou sem
+  mudança de sede.”
+
+
+
+  PEGADINHA SOBRE REDISTRIBUIÇÃO
+  É falso dizer que a redistribuição ocorre ex officio “exceto” nos casos de reorganização, extinção ou criação.
+  A própria lei inclui essas hipóteses no ajuste de lotação e força de trabalho.
+
+
+
+Regra-relâmpago
+     REMOÇÃO = pessoa se move | REDISTRIBUIÇÃO = cargo se move
+
+
+
+
+                                                                                                             Página 7
+<PARSED TEXT FOR PAGE: 8 / 13>
+                                                                                IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+7. Vacância, exoneração e demissão
+Outro ponto em que uma palavra muda completamente a natureza jurídica da alternativa.
+
+                                         Vacância do cargo público decorre de
+
+   Exoneração
+
+   Demissão
+
+   Promoção
+
+   Readaptação
+
+   Aposentadoria
+
+   Posse em outro cargo inacumulável
+
+   Falecimento
+
+
+
+Exoneração × Demissão
+                         Exoneração                                                Demissão
+
+   Não tem natureza punitiva.                              É penalidade disciplinar.
+
+   Pode ocorrer a pedido ou de ofício.                     Depende da hipótese disciplinar e do devido processo.
+
+   De ofício: reprovação no estágio probatório.            Não confundir com reprovação no probatório.
+
+   De ofício: tomou posse e não entrou em exercício no     Não é a consequência para simples falta de exercício
+   prazo.                                                  após posse.
+
+
+
+  PEGADINHA AOCP
+  Se a alternativa disser que “não entrar em exercício após a posse” gera demissão, desconfie. A Lei 8.112
+  prevê exoneração de ofício.
+
+
+
+
+                                                                                                                  Página 8
+<PARSED TEXT FOR PAGE: 9 / 13>
+                                                                             IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+8. Pegadinhas AOCP deste bloco
+Uma página para reler em menos de três minutos antes de uma bateria de questões.
+
+       #                       Armadilha                     Status                    Correção
+
+   1       “Provimento ocorre com a posse.”                 ERRADO    Quem ocorre com a posse é a INVESTIDURA.
+
+   2       “Só há posse em qualquer forma de provimento.”   ERRADO    Só haverá posse no provimento por
+                                                                      NOMEAÇÃO.
+
+   3       “Exercício é a assinatura do termo.”             ERRADO    Assinatura do termo = POSSE; exercício =
+                                                                      desempenho das atribuições.
+
+   4       “Remoção desloca o cargo.”                       ERRADO    Remoção desloca o SERVIDOR.
+
+   5       “Redistribuição desloca o servidor.”             ERRADO    Redistribuição desloca o CARGO efetivo.
+
+   6       “Aproveitamento é retorno de aposentado.”        ERRADO    Aposentado = REVERSÃO; disponibilidade =
+                                                                      APROVEITAMENTO.
+
+   7       “Reintegração ocorre por reprovação em           ERRADO    Isso pode gerar RECONDUÇÃO.
+           probatório de outro cargo.”
+
+   8       “Exoneração é sempre punição.”                   ERRADO    Exoneração, em regra, não é penalidade
+                                                                      disciplinar.
+
+
+
+
+  SE VOCÊ SÓ TIVER 60 SEGUNDOS
+  Lembre quatro pares: provimento ≠ investidura; posse ≠ exercício; remoção = servidor; redistribuição =
+  cargo.
+
+
+
+
+                                                                                                                 Página 9
+<PARSED TEXT FOR PAGE: 10 / 13>
+                                                                                 IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+9. Mini-simulado de retenção
+Responda CERTO ou ERRADO sem consultar as páginas anteriores. O gabarito está na página seguinte.
+
+   1. A investidura em cargo público ocorre com a posse.
+   Sua resposta: ( ) CERTO     ( ) ERRADO
+
+
+
+   2. O provimento de cargo público ocorre necessariamente com a posse.
+   Sua resposta: ( ) CERTO     ( ) ERRADO
+
+
+
+   3. O prazo para o servidor empossado entrar em exercício é de 15 dias contados da posse.
+   Sua resposta: ( ) CERTO     ( ) ERRADO
+
+
+
+   4. A remoção é o deslocamento do cargo efetivo para outro órgão do mesmo Poder.
+   Sua resposta: ( ) CERTO     ( ) ERRADO
+
+
+
+   5. A redistribuição pode envolver cargo efetivo ocupado ou vago.
+   Sua resposta: ( ) CERTO     ( ) ERRADO
+
+
+
+   6. O aproveitamento é o retorno à atividade do servidor em disponibilidade.
+   Sua resposta: ( ) CERTO     ( ) ERRADO
+
+
+
+   7. A reintegração decorre da invalidação da demissão do servidor estável.
+   Sua resposta: ( ) CERTO     ( ) ERRADO
+
+
+
+   8. A recondução pode decorrer da inabilitação em estágio probatório relativo a outro cargo.
+   Sua resposta: ( ) CERTO     ( ) ERRADO
+
+
+
+   9. Assiduidade, disciplina, iniciativa, produtividade e responsabilidade são fatores do estágio probatório.
+   Sua resposta: ( ) CERTO     ( ) ERRADO
+
+
+
+   10. O servidor que tomou posse e não entrou em exercício no prazo legal será demitido.
+   Sua resposta: ( ) CERTO     ( ) ERRADO
+
+
+
+
+                                                                                                                 Página 10
+<PARSED TEXT FOR PAGE: 11 / 13>
+                                                                              IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+10. Gabarito comentado do mini-simulado
+Use esta página só depois de responder as 10 afirmações.
+
+       #     Gabarito                                               Por quê
+
+   1       CERTO         Art. 7º: a investidura em cargo público ocorrerá com a posse.
+
+   2       ERRADO        O erro é trocar provimento por investidura.
+
+   3       CERTO         Art. 15, §1º: 15 dias contados da posse.
+
+   4       ERRADO        Remoção desloca o servidor, não o cargo.
+
+   5       CERTO         A redistribuição alcança cargo efetivo ocupado ou vago.
+
+   6       CERTO         Disponibilidade → aproveitamento.
+
+   7       CERTO         Reintegração: demissão invalidada, com ressarcimento das vantagens.
+
+   8       CERTO         É uma das hipóteses expressas de recondução.
+
+   9       CERTO         A-D-C-P-R.
+
+   10      ERRADO        A consequência é exoneração do cargo, não demissão.
+
+
+
+  META PARA CONSIDERAR RECUPERADO
+  9/10 ou 10/10 sem consulta. Se errar novamente provimento × investidura × posse, mantenha o ponto em
+  amarelo/vermelho e faça nova questão em D+1.
+
+
+
+
+                                                                                                             Página 11
+<PARSED TEXT FOR PAGE: 12 / 13>
+                                                                         IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+11. Revisão de 5 minutos
+Esta é a página para usar durante um intervalo curto no trabalho.
+
+  MINUTO 1 - SEQUÊNCIA
+  PROVIMENTO → INVESTIDURA COM A POSSE → EXERCÍCIO. Posse: 30 dias. Exercício: 15 dias.
+
+
+
+  MINUTO 2 - RETORNOS
+  Aposentado = reversão. Demissão anulada = reintegração. Outro cargo/probatório = recondução.
+  Disponibilidade = aproveitamento. Limitação = readaptação.
+
+
+
+  MINUTO 3 - DESLOCAMENTOS
+  Remoção desloca SERVIDOR. Redistribuição desloca CARGO efetivo, ocupado ou vago.
+
+
+
+  MINUTO 4 - PROBATÓRIO
+  A-D-C-P-R: Assiduidade, Disciplina, Capacidade de iniciativa, Produtividade, Responsabilidade.
+
+
+
+  MINUTO 5 - VACÂNCIA
+  Exoneração ≠ demissão. Reprovação no probatório ou posse sem exercício no prazo → exoneração de
+  ofício.
+
+
+
+Recuperação ativa
+ • Sem olhar: explique em uma frase a diferença entre provimento e investidura.
+ • Sem olhar: diga quem se desloca na remoção e quem se desloca na redistribuição.
+ • Sem olhar: cite os cinco fatores do estágio probatório.
+ • Sem olhar: diferencie reintegração, recondução e aproveitamento.
+
+
+
+
+                                                                                                        Página 12
+<PARSED TEXT FOR PAGE: 13 / 13>
+                                                                                            IFPA 2026 | Lei 8.112/1990 | Revisão AOCP
+
+12. Plano de revisão e fontes
+Fechamento do bloco para o seu ciclo de estudos.
+
+         Quando                                               O que fazer                                             Duração
+
+   Agora                   Ler este material e refazer mentalmente a questão errada.                             10-15 min
+
+   D+1                     Ler apenas “Pegadinhas AOCP” + “Revisão de 5 minutos”.                                5-8 min
+
+   D+7                     Mini-simulado sem consulta + 3 questões reais AOCP do mesmo tema.                     10-15 min
+
+   D+30                    Questões misturadas de Lei 8.112, sem aviso do subtema.                               10-20 min
+
+
+
+  CHECKPOINT DO BLOCO
+  Estado atual: estágio probatório = verde; aproveitamento/remoção/redistribuição = verde com revisão
+  normal; provimento × investidura × posse = amarelo, aguardando reteste posterior sem consulta.
+
+
+
+Fontes normativas utilizadas
+• Lei nº 8.112, de 11 de dezembro de 1990 - texto consolidado da Presidência da República (arts. 5º a 39,
+  especialmente 7º, 8º, 13, 15, 20, 24 a 37).
+• Decreto nº 12.374, de 6 de fevereiro de 2025 - critérios e procedimentos do estágio probatório no âmbito do
+  Sipec.
+• Questões resolvidas do Instituto AOCP enviadas pelo usuário em 08/10/2026, incluindo a questão Q2569346 e
+  duas questões sobre o Título II da Lei 8.112/1990.
+
+          Material de revisão para concurso - não substitui a leitura da legislação oficial quando o edital exigir literalidade.
+
+
+
+
+                                                                                                                                   Página 13
