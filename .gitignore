@@ -1,0 +1,12 @@
+# Dados pessoais / documentos sensíveis
+DiplomaDigital.pdf
+DiplomaDigital.xml
+**/documentos-pessoais/**
+**/*CPF*
+**/*RG*
+
+# Temporários e backups locais
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
