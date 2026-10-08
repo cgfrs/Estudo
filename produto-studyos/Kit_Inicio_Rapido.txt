@@ -1,0 +1,314 @@
+<PARSED TEXT FOR PAGE: 1 / 14>
+StudyOS Concursos | Kit de Início Rápido • 1
+STUDYOS CONCURSOS
+KIT DE INÍCIO RÁPIDO
+Configure seu sistema de estudos com IA e comece em aproximadamente 15 minutos.
+Para quem é este kit
+Para concurseiros que querem transformar o ChatGPT ou outro assistente de IA compatível em um coordenador 
+de estudos: edital organizado, ciclo de matérias, aulas, questões, erros, revisões e decisões diárias.
+Comece pelo edital. Termine pela prova.
+Versão 1.0 | Produto independente. Não garante aprovação e não substitui o edital oficial.
+<PARSED TEXT FOR PAGE: 2 / 14>
+StudyOS Concursos | Kit de Início Rápido • 2
+INÍCIO RÁPIDO
+Comece em 15 minutos
+Você não precisa ler o manual completo antes de usar o método. Siga esta página de cima para baixo.
+1
+Separe 6 informações
+Concurso, cargo, banca, data da prova, rotina disponível e experiência prévia.
+2
+Tenha o edital oficial
+Use o PDF oficial ou o link do órgão/banca. O edital é a fonte de verdade do seu conteúdo.
+3
+Crie uma Central de Estudos
+Um chat exclusivo para planejamento, prioridades, progresso, revisões e decisões diárias.
+4
+Crie um chat por matéria
+Cada disciplina terá seu próprio histórico, aulas, questões, erros e PDF de revisão.
+5
+Cole os prompts das próximas páginas
+Primeiro o Prompt Mestre na Central; depois o Template de Matéria em cada disciplina.
+6
+Pergunte: “O que estudo agora?”
+A Central deve responder com uma única ação objetiva: matéria, assunto, duração e objetivo.
+Regra de ouro
+Não tente configurar tudo perfeitamente antes de começar. O StudyOS melhora com seus dados reais de estudo e 
+questões.
+<PARSED TEXT FOR PAGE: 3 / 14>
+StudyOS Concursos | Kit de Início Rápido • 3
+CHECKLIST
+O que você precisa ter em mãos
+O método funciona melhor quando a IA recebe contexto real, não suposições.
+Obrigatório
+ Edital oficial do concurso ou seleção.
+ Cargo/área exata para a qual você vai concorrer.
+ Banca organizadora, quando já definida.
+ Data da prova ou janela estimada.
+ Sua rotina real: trabalho, deslocamento, sono, treinos, família e horários disponíveis.
+ Seu histórico: matérias fortes, fracas, concursos anteriores e experiência com estudo.
+Opcional, mas muito útil
+ Plataforma de questões para filtrar a banca e o assunto.
+ Google Drive/Notion/uma pasta local para guardar PDFs.
+ StudyOS visual (HTML) para registrar horas, questões, revisões e banco de erros.
+ Calendário para blocos fixos quando sua rotina exigir horário marcado.
+Não compre tudo de uma vez
+Comece com edital + IA + questões. Cursos completos, videoaulas e materiais extras entram apenas quando 
+resolverem uma dificuldade concreta.
+Como nomear sua estrutura
+Projeto/Pasta: [NOME DO CONCURSO] - Estudos
+Chat 00: Central de Estudos
+Chat 01 em diante: uma disciplina por chat, seguindo o edital.
+<PARSED TEXT FOR PAGE: 4 / 14>
+StudyOS Concursos | Kit de Início Rápido • 4
+PASSO 1
+Prompt Mestre Essencial
+Cole este prompt na sua Central de Estudos. Ele configura o comportamento-base do sistema.
+COPIE E COLE
+A partir de agora, você será meu Coordenador e Monitor de Estudos para concursos.
+Concurso: [CONCURSO]
+Cargo: [CARGO]
+Banca: [BANCA]
+Data da prova: [DATA]
+Rotina disponível: [ROTINA]
+Experiência anterior: [EXPERIÊNCIA]
+Use o edital oficial como fonte principal e controle todos os tópicos do cargo. Organize as matérias em ordem pedagógica
+e trabalhe por ciclo, não por grade rígida.
+Para cada assunto use: aula/PDF -> estudo -> recuperação ativa -> questões da banca -> análise dos erros -> revisão -> 
+próxima matéria.
+Não considere um assunto dominado apenas porque foi lido. Ajuste prioridades pelo peso da prova, dificuldade, 
+cobertura do edital, taxa de acerto, erros e revisões pendentes.
+Quando eu perguntar “O que estudar hoje?” ou “O que estudar agora?”, escolha uma ação principal e informe matéria, 
+assunto, duração, objetivo e etapa do método.
+Acompanhe horas líquidas, questões, acertos, cobertura do edital, revisões e pontos fracos. Se eu estiver estudando de 
+forma ineficaz, avise e corrija a estratégia.
+Depois de colar
+Envie o edital oficial. Peça para a Central listar as matérias, pesos, critérios mínimos e criar o primeiro ciclo de 
+estudos.
+<PARSED TEXT FOR PAGE: 5 / 14>
+StudyOS Concursos | Kit de Início Rápido • 5
+PASSO 2
+Monte a arquitetura dos chats
+A Central decide. Os chats das matérias ensinam e acumulam histórico específico.
+Template para cada chat de matéria
+MENSAGEM INICIAL DO CHAT DA DISCIPLINA
+Este chat será dedicado exclusivamente a [MATÉRIA] para o concurso [CONCURSO], cargo [CARGO], banca [BANCA].
+Aplique as regras da Central de Estudos. Cubra todo o conteúdo da disciplina previsto no edital, organize em ordem 
+pedagógica e ensine no nível útil para a prova.
+Para cada assunto: gere aula/PDF completo -> aguarde meu estudo -> faça recuperação ativa -> use questões reais da 
+banca quando possível -> analise meus erros -> atualize o PDF de revisão.
+Destaque definições, classificações, exceções, diferenças, palavras-chave e pegadinhas da banca. Não avance 
+automaticamente quando eu disser que li; primeiro verifique aprendizagem.
+Dica de organização
+Se o concurso tiver 8 matérias, crie 8 chats + 1 Central. Não misture todas as aulas em um único chat longo.
+<PARSED TEXT FOR PAGE: 6 / 14>
+StudyOS Concursos | Kit de Início Rápido • 6
+PASSO 3
+Como funciona uma aula
+O objetivo não é “consumir conteúdo”. É transformar conteúdo em desempenho.
+1
+Aula/PDF completo
+Material didático, suficiente para o edital e focado no estilo da banca.
+2
+Estudo ativo
+Leia buscando explicar conceitos; marque dúvidas, não copie a aula inteira.
+3
+Recuperação ativa
+Feche o material e tente lembrar, explicar, listar ou responder sem consultar.
+4
+Questões da banca
+Resolva sem ver o gabarito. Prefira a banca-alvo e assuntos realmente estudados.
+5
+Análise dos erros
+Classifique: não sabia, esqueceu, confundiu, interpretou mal, desatenção ou pegadinha.
+6
+PDF de revisão
+Registre apenas o que precisa reaparecer: síntese, erros, pegadinhas, diferenças e regras.
+7
+Próxima matéria do ciclo
+Não estude uma disciplina inteira antes das outras. Volte a ela na próxima passagem do ciclo.
+Um assunto só amadurece com evidência
+Leitura gera familiaridade. Domínio exige questões e retenção nas revisões.
+<PARSED TEXT FOR PAGE: 7 / 14>
+StudyOS Concursos | Kit de Início Rápido • 7
+MÉTODO
+O ciclo universal
+Use esta sequência em qualquer concurso e qualquer disciplina.
+O que muda de pessoa para pessoa
+ A ordem das matérias no ciclo.
+ O tempo de cada bloco.
+ A profundidade de cada aula.
+ A quantidade de questões por assunto.
+ A frequência das revisões.
+ A prioridade dada a matérias fracas, pesadas ou atrasadas.
+Dia perdido não vira dívida
+Se você perder uma sessão, continue o ciclo de onde parou. Não tente “pagar” o atraso dobrando carga e 
+destruindo a semana seguinte.
+<PARSED TEXT FOR PAGE: 8 / 14>
+StudyOS Concursos | Kit de Início Rápido • 8
+COMANDOS RÁPIDOS
+Comandos que você vai usar todo dia
+Você não precisa decorar prompts longos. Depois da configuração, converse normalmente.
+1
+O que estudo agora?
+A Central escolhe a melhor ação considerando ciclo, revisões, desempenho e tempo disponível.
+2
+Tenho 25 minutos. O que faço?
+Transforma uma janela curta em microbloco útil: revisão, questões ou recuperação ativa.
+3
+Terminei a aula.
+Aciona recuperação ativa e preparação das questões antes do próximo assunto.
+4
+Fiz 20 questões e acertei 14.
+Atualiza taxa de acerto e inicia diagnóstico dos 6 erros.
+5
+Essas foram as questões que errei: ...
+Classifica erros e decide o que entra no PDF de revisão.
+6
+Atualize meu progresso.
+Recalcula cobertura, maturidade dos assuntos, forças e fraquezas.
+7
+Faça meu fechamento da semana.
+Resume horas, questões, acertos, assuntos, revisões e prioridade da próxima semana.
+8
+O que está atrasado?
+Lista revisões vencidas, matérias abandonadas e pontos do edital sem contato.
+<PARSED TEXT FOR PAGE: 9 / 14>
+StudyOS Concursos | Kit de Início Rápido • 9
+PASSO 4
+Questões e Banco de Erros
+As questões servem para diagnóstico, não apenas para contar acertos.
+Depois de cada assunto
+ Filtre a banca do concurso sempre que houver volume suficiente de questões.
+ Comece com um bloco curto: 10 a 20 questões pode ser suficiente para o primeiro diagnóstico.
+ Responda antes de ver comentários e gabarito.
+ Registre quantidade, acertos e assunto.
+ Leve os erros para o chat da matéria ou para a Central.
+Classificação padrão de erro
+Tipo O que significa
+Não sabia O conteúdo não estava disponível na memória ou não foi 
+estudado.
+Esquecimento Você já havia aprendido, mas não recuperou no momento 
+da questão.
+Confusão de conceitos Dois conceitos parecidos foram trocados.
+Interpretação O conhecimento existia, mas o enunciado foi compreendido 
+de forma incorreta.
+Desatenção Erro operacional: marcou alternativa errada, ignorou 
+“exceto”, sinal, unidade etc.
+Pegadinha da banca A banca explorou exceção, linguagem absoluta, detalhe ou 
+distinção recorrente.
+Pergunta certa
+Não pergunte apenas “por que errei?”. Pergunte “o que preciso mudar para não repetir esse erro em uma prova 
+daqui a 30 dias?”.
+<PARSED TEXT FOR PAGE: 10 / 14>
+StudyOS Concursos | Kit de Início Rápido • 10
+PASSO 5
+Revisões que não viram releitura infinita
+Revisar é tentar recuperar antes de consultar.
+Padrão inicial
+D+1 Primeira recuperação
+Tente explicar o assunto e responda poucas perguntas 
+sem abrir o PDF. Consulte só o que falhou.
+D+7 Consolidação
+Faça questões ou recuperação ativa misturando conceitos.
+Atualize o banco de erros se necessário.
+D+30 Retenção
+Teste novamente. Se o desempenho continuar alto, 
+diminua a frequência; se cair, encurte o intervalo.
+Não existe “dominado porque li”
+Use estados: não estudado -> em estudo -> estudado -> testado -> em revisão -> dominado.
+<PARSED TEXT FOR PAGE: 11 / 14>
+StudyOS Concursos | Kit de Início Rápido • 11
+ROTINA REAL
+O que fazer com o tempo que você tem
+A Central adapta a etapa do método ao tamanho da janela.
+10-15 min Microbloco
+Recuperação ativa, flashcards, 3-5 questões ou revisão de 
+um erro. Não abra um assunto grande.
+25-40 min Bloco curto
+Continue uma aula, revise um tópico ou faça 8-12 
+questões com correção rápida.
+50-70 min Bloco padrão
+Aula + recuperação ativa, ou questões + análise dos erros.
+90-120 min Bloco forte
+Duas etapas com pausa: conteúdo novo + 
+questões/revisão, ou duas matérias diferentes do ciclo.
+2h+ Fim de semana
+Use blocos separados. Evite maratona contínua. Inclua 
+revisão acumulada e fechamento semanal.
+Frase pronta para usar
+MICROPLANEJAMENTO
+Tenho [X] minutos disponíveis agora. Consulte meu ciclo, revisões e desempenho atual. Escolha apenas uma tarefa 
+principal e informe: matéria, assunto, duração, objetivo e como encerrar o bloco.
+<PARSED TEXT FOR PAGE: 12 / 14>
+StudyOS Concursos | Kit de Início Rápido • 12
+PLANO DE 7 DIAS
+Sua primeira semana
+A primeira semana serve para gerar dados e estabilizar o hábito.
+1
+Dia 1
+Configurar Central + chats das matérias + verticalizar o edital.
+2
+Dia 2
+Primeiro assunto de uma matéria específica + recuperação ativa.
+3
+Dia 3
+Primeiro assunto de uma matéria geral + revisão D+1 do dia anterior.
+4
+Dia 4
+Questões da banca sobre o primeiro assunto + banco de erros.
+5
+Dia 5
+Próxima matéria do ciclo + revisão curta.
+6
+Dia 6
+Bloco mais longo: nova matéria + questões/revisão acumulada.
+7
+Dia 7
+Fechamento semanal: horas, questões, taxa de acerto, atrasos e prioridade da semana 2.
+O objetivo da semana 1 não é “fechar o edital”
+É criar um sistema que você consiga repetir por meses: estudar, testar, corrigir e revisar.
+<PARSED TEXT FOR PAGE: 13 / 14>
+StudyOS Concursos | Kit de Início Rápido • 13
+CHECKLIST FINAL
+Antes de estudar hoje
+Use este checklist toda vez que sentir que está perdido.
+01. Estou usando o edital oficial como referência?
+02. Sei qual é a próxima matéria do ciclo?
+03. Tenho revisão vencida que deveria vir antes de conteúdo novo?
+04. Estou aprendendo um assunto ou apenas relendo?
+05. Já fiz questões sobre o que terminei?
+06. Registrei por que errei?
+07. Meu PDF de revisão está acumulando apenas o que realmente preciso rever?
+08. Estou distribuindo tempo pelo peso da prova e pelo meu desempenho?
+09. Meu cronograma cabe na minha rotina real?
+10. Consigo dizer o próximo passo sem escolher entre dez opções?
+Se estiver em dúvida, mande só isto para a Central:
+COMANDO UNIVERSAL
+O que estudo agora? Tenho [TEMPO DISPONÍVEL]. Considere meu ciclo, revisões, taxa de acerto, erros e cobertura do 
+edital. Dê uma única tarefa principal e o critério de encerramento.
+Próximo nível
+Depois de dominar este kit, use o Manual Comercial Completo para entender toda a metodologia e o Prompt Pack 
+Profissional para fluxos avançados: simulados, reta final, auditoria do edital, métricas, PDF de revisão e 
+personalizações.
+<PARSED TEXT FOR PAGE: 14 / 14>
+StudyOS Concursos | Kit de Início Rápido • 14
+USO RESPONSÁVEL
+Avisos importantes
+Leia antes de depender do sistema em um concurso real.
+ O edital oficial, retificações e comunicados da banca sempre prevalecem sobre qualquer resposta de IA.
+ Modelos de IA podem cometer erros, omitir tópicos ou interpretar regras incorretamente. Verifique 
+informações de alto impacto diretamente na fonte oficial.
+ Questões “reais da banca” devem ser identificadas como reais somente quando houver fonte verificável. 
+Caso contrário, trate-as como questões simuladas no estilo da banca.
+ Taxas de acerto são indicadores de estudo, não garantias de aprovação.
+ O método deve respeitar sono, saúde, trabalho, família e limitações individuais. Mais horas não significam 
+automaticamente mais aprendizado.
+ Não compartilhe documentos com dados pessoais desnecessários. Redija ou remova CPF, RG, endereço e 
+outros identificadores quando não forem essenciais.
+ StudyOS Concursos é um método/produto independente e não representa afiliação, certificação ou endosso 
+de bancas, órgãos públicos, OpenAI ou plataformas de questões.
+Pronto para começar
+Volte à sua Central de Estudos, envie o edital e pergunte: “O que estudo agora?”. A partir daqui, o sistema deve 
+evoluir com seus dados reais.
+STUDYOS CONCURSOS
+Aprender -> testar -> errar -> corrigir -> revisar -> repetir.
