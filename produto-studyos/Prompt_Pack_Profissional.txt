@@ -1998,3 +1998,454 @@ SAÍDA ESPERADA  Sessão adequada ao nível de energia.
 
 51. Assunto Travado
 USE QUANDO Use quando está gastando tempo demais em um conteúdo.
+
+ENTRADA MÍNIMA Assunto e tempo já investido.
+
+PROMPT PARA COPIAR
+Estou travado em {{ASSUNTO}} e já investi aproximadamente {{TEMPO}}.
+
+Avalie se devo:
+
+A. insistir agora;
+
+B. mudar a explicação;
+
+C. buscar vídeo pontual;
+
+D. fazer questões para identificar exatamente a lacuna;
+
+E. avançar provisoriamente e retornar depois.
+
+Considere peso no edital e custo-benefício.
+
+Não deixe perfeccionismo em um tópico bloquear o ciclo inteiro.
+
+SAÍDA ESPERADA  Decisão de destravamento.
+
+52. Recurso Externo Pontual
+USE QUANDO Use quando realmente precisar de vídeo, artigo ou 
+
+documentação.
+
+ENTRADA MÍNIMA Conceito difícil.
+
+PROMPT PARA COPIAR
+Preciso de um recurso externo para entender {{ASSUNTO}}.
+
+Pesquise e recomende apenas recursos pontuais e de alta qualidade.
+
+Priorize:
+
+- fonte oficial/documentação, quando adequado;
+
+- vídeo específico e direto;
+
+- conteúdo alinhado ao nível da prova;
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 29
+
+- materiais recentes se o tema mudar com o tempo.
+
+Explique exatamente qual trecho/recurso devo consumir e o que devo conseguir responder depois.
+
+Evite recomendar um curso completo quando um recurso pontual resolver.
+
+SAÍDA ESPERADA  Reforço externo sem dispersão.
+
+53. Legislação ou Norma Atualizada
+USE QUANDO Use para temas jurídicos/normativos que podem mudar.
+
+ENTRADA MÍNIMA Lei, norma ou assunto.
+
+PROMPT PARA COPIAR
+Verifique a versão atualmente vigente de {{NORMA_O_TEMA}} antes de me ensinar ou revisar.
+
+Use fonte oficial sempre que possível.
+
+Diferencie:
+
+- texto vigente;
+
+- alterações recentes;
+
+- pontos cobrados no edital;
+
+- entendimentos ou interpretações, quando existirem.
+
+Não use memória antiga para afirmar redação legal atual. Cite a fonte e a data de verificação.
+
+SAÍDA ESPERADA  Conteúdo normativo atualizado e verificável.
+
+54. Pouco Tempo até a Prova
+USE QUANDO Use quando o edital é grande e o tempo é insuficiente para 
+
+cobertura ideal.
+
+ENTRADA MÍNIMA Dias restantes, horas semanais e desempenho.
+
+PROMPT PARA COPIAR
+Tenho {{DIAS}} dias até a prova e {{HORAS_SEMANAIS}} horas por semana.
+
+Não conseguirei estudar tudo com a mesma profundidade.
+
+Monte uma estratégia de priorização sem abandonar os mínimos exigidos pelo edital.
+
+Considere:
+
+- peso;
+
+- incidência da banca;
+
+- tamanho do assunto;
+
+- facilidade de ganho de pontos;
+
+- meu conhecimento prévio;
+
+- risco de eliminação por bloco/matéria.
+
+Separe em:
+
+A. obrigatório dominar;
+
+B. obrigatório ter contato;
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 30
+
+C. estudar se houver tempo.
+
+Explique as perdas e riscos dessa escolha.
+
+SAÍDA ESPERADA  Plano de triagem quando o tempo é crítico.
+
+PARTE 10 — STUDYOS, REGISTROS E AUTOMAÇÃO
+Use os prompts desta seção conforme o estágio da preparação. Não é necessário usar todos; o valor está em 
+selecionar o prompt certo para o problema certo.
+
+55. Atualizar StudyOS
+USE QUANDO Use após qualquer sessão para transformar o resultado em 
+
+dados.
+
+ENTRADA MÍNIMA Dados da sessão.
+
+PROMPT PARA COPIAR
+Converta esta sessão em um registro para meu StudyOS.
+
+Dados da sessão: {{DADOS}}
+
+Retorne em formato estruturado:
+
+- data;
+
+- disciplina;
+
+- assunto;
+
+- minutos líquidos;
+
+- atividade (teoria/questões/revisão/simulado);
+
+- questões;
+
+- acertos;
+
+- percentual;
+
+- erros principais;
+
+- estágio do assunto;
+
+- revisões futuras sugeridas;
+
+- próximo passo.
+
+Não invente dados ausentes. Marque como “não informado”.
+
+SAÍDA ESPERADA  Registro padronizado para painel.
+
+56. Gerar Resumo para Dashboard
+USE QUANDO Use para preencher painel visual semanal.
+
+ENTRADA MÍNIMA Histórico de estudos.
+
+PROMPT PARA COPIAR
+Resuma meu histórico para alimentar um dashboard de estudos.
+
+Quero:
+
+- horas desta semana / meta;
+
+- horas acumuladas;
+
+- questões desta semana / total;
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 31
+
+- acerto geral;
+
+- acerto por matéria;
+
+- cobertura por matéria;
+
+- revisões pendentes;
+
+- posição no ciclo;
+
+- 3 maiores fraquezas;
+
+- 3 melhores desempenhos;
+
+- assunto atual de cada matéria.
+
+Use valores numéricos quando houver dados. Não estime silenciosamente.
+
+SAÍDA ESPERADA  Dados consolidados para visualização.
+
+57. Prompt para Agente Diário
+USE QUANDO Use para configurar um assistente que decide a tarefa do 
+
+dia.
+
+ENTRADA MÍNIMA Estado atualizado do estudo.
+
+PROMPT PARA COPIAR
+Atue como meu AGENTE DIÁRIO de estudos.
+
+Toda vez que eu disser “começar”, faça:
+
+1. verifique tempo disponível hoje;
+
+2. consulte posição do ciclo;
+
+3. verifique revisões vencidas;
+
+4. verifique assunto em andamento;
+
+5. use desempenho para decidir prioridade;
+
+6. entregue UMA sessão principal e, se couber, UMA atividade complementar.
+
+Durante a execução:
+
+- marque o início e o fim de cada bloco;
+
+- não troque de assunto sem necessidade;
+
+- ao final, solicite meus resultados e gere o registro para o StudyOS.
+
+Seu objetivo é eliminar a necessidade de eu decidir o que estudar.
+
+SAÍDA ESPERADA  Rotina diária assistida.
+
+58. Auditoria de Consistência entre Chats
+USE QUANDO Use quando há vários chats de matérias e uma Central.
+
+ENTRADA MÍNIMA Resumos dos chats.
+
+PROMPT PARA COPIAR
+Audite a consistência entre minha Central de Estudos e os chats das disciplinas.
+
+Procure divergências em:
+
+- assuntos marcados como concluídos;
+
+- questões realizadas;
+
+- taxas de acerto;
+
+- revisões;
+
+- PDFs existentes;
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 32
+
+- posição do ciclo;
+
+- próximo assunto.
+
+Quando encontrar conflito, não escolha silenciosamente um lado. Mostre a divergência e diga qual 
+dado precisa ser confirmado.
+
+SAÍDA ESPERADA  Estado sincronizado entre chats.
+
+59. Gerar Backup Textual
+USE QUANDO Use periodicamente para não depender de um único chat.
+
+ENTRADA MÍNIMA Estado completo da preparação.
+
+PROMPT PARA COPIAR
+Gere um BACKUP TEXTUAL PORTÁTIL da minha preparação.
+
+Inclua, de forma compacta:
+
+- concurso/cargo/banca/data;
+
+- regras do método;
+
+- lista de disciplinas;
+
+- posição do ciclo;
+
+- status dos assuntos;
+
+- desempenho por matéria;
+
+- banco de erros resumido;
+
+- revisões pendentes;
+
+- materiais/PDFs existentes;
+
+- meta semanal;
+
+- próximas 5 ações.
+
+O texto deve ser suficiente para reiniciar a preparação em um novo chat sem reconstruir tudo do 
+zero.
+
+SAÍDA ESPERADA  Snapshot portátil do sistema.
+
+
+
+STUDYOS CONCURSOS  •  PROMPT PACK PROFISSIONAL
+
+Página 33
+
+Combinações prontas — fluxos recomendados
+Situação Sequência sugerida
+Começar do zero 1 → 7 → 8 → 11 → 13 → 14 → 3 → 19
+Rotina diária 16 ou 17 → 19/23/27 → 40 → 55
+Terminou uma aula 23 → 26/27 → 29 → 30 → 33 → 34
+Fechamento semanal 41 → 12 → 42 → 15
+Assunto fraco 31 → 21/22 → 32 → 39
+Reta final 47 → 45 → 46 → 48 → 49
+Chat ficou confuso 5 → 6 → 58 → 59
+
+Checklist de qualidade do uso
+ Estou usando o edital oficial como limite de escopo.
+ Registro resultados reais, não apenas sensação de estudo.
+ Faço questões antes de considerar um assunto dominado.
+ Reviso erros, não apenas gabaritos.
+ O PDF de revisão é enxuto e personalizado.
+ Meu ciclo muda com desempenho, não por impulso.
+ Não acumulo cursos e materiais sem necessidade.
+ Na reta final, aumento questões e revisões.
+ Quando a informação é atualizável, verifico fonte recente/oficial.
+ Mantenho backup do estado da preparação.
+
+Licença e personalização comercial
+Modelo de texto para a edição comercial: “Este material é licenciado ao comprador para uso pessoal. 
+Redistribuição, revenda ou compartilhamento integral dependem dos termos definidos pelo titular da marca.” 
+Ajuste a licença ao modelo de negócio e, para termos jurídicos definitivos, utilize orientação profissional adequada 
+à sua operação.
+
+Personalize antes da venda: [SUA MARCA], [AUTOR], [SUPORTE], [SITE], [VERSÃO], [DATA DE 
+ATUALIZAÇÃO] e termos de uso.
+
+STUDYOS CONCURSOS
+Menos material acumulado. Mais conhecimento testado.
+
+
+	Antes de usar
+	Início rápido — como usar em 10 minutos
+	Padrão de variáveis
+	Mapa do Prompt Pack
+	PARTE 1 — CONFIGURAÇÃO DO SISTEMA
+	1. Prompt Mestre Universal
+	2. Central de Comando
+	3. Criar um Chat de Matéria
+	4. Onboarding do Estudante
+	5. Reinicialização de Contexto
+	6. Transferência entre Chats
+
+	PARTE 2 — EDITAL, BANCA E ESTRATÉGIA
+	7. Auditoria Completa do Edital
+	8. Verticalização do Conteúdo
+	9. Análise 80/20 da Banca
+	10. Comparar Edital com Provas Anteriores
+	11. Matriz de Prioridade
+	12. Auditoria de Cobertura
+
+	PARTE 3 — PLANEJAMENTO E CICLO
+	13. Montar o Ciclo de Matérias
+	14. Cronograma pela Rotina Real
+	15. Plano Semanal Dinâmico
+	16. O que Estudar Hoje?
+	17. O que Estudar Agora?
+	18. Recuperar Dia Perdido
+
+	PARTE 4 — AULAS E APRENDIZAGEM ATIVA
+	19. Gerar Aula Completa
+	20. Gerar PDF de Aula
+	21. Explicar de Outro Jeito
+	22. Método Feynman
+	23. Recuperação Ativa de 10 Minutos
+	24. Mapa Mental Textual
+	25. Flashcards de Alta Qualidade
+
+	PARTE 5 — QUESTÕES, BANCA E BANCO DE ERROS
+	26. Buscar Questões Reais da Banca
+	27. Filtro para Plataforma de Questões
+	28. Aplicar Bateria de Questões
+	29. Correção Profunda de Questão
+	30. Banco de Erros
+	31. Diagnóstico por Taxa de Acerto
+	32. Requestões de Erros
+
+	PARTE 6 — REVISÃO E RETENÇÃO
+	33. Criar PDF de Revisão
+	34. Revisão D+1
+	35. Revisão D+7
+	36. Revisão D+30
+	37. Revisão Expressa de 5 Minutos
+	38. Revisão Cumulativa da Disciplina
+	39. Ajustar Intervalos de Revisão
+
+	PARTE 7 — MÉTRICAS, FECHAMENTO E AJUSTES
+	40. Fechamento do Dia
+	41. Fechamento Semanal
+	42. Rebalancear o Ciclo
+	43. Diagnóstico de Método
+	44. Painel de Desempenho Textual
+
+	PARTE 8 — SIMULADOS E RETA FINAL
+	45. Gerar Simulado
+	46. Pós-Simulado
+	47. Plano dos Últimos 30 Dias
+	48. Plano dos Últimos 7 Dias
+	49. Estratégia de Prova
+
+	PARTE 9 — SITUAÇÕES ESPECIAIS
+	50. Estou Cansado
+	51. Assunto Travado
+	52. Recurso Externo Pontual
+	53. Legislação ou Norma Atualizada
+	54. Pouco Tempo até a Prova
+
+	PARTE 10 — STUDYOS, REGISTROS E AUTOMAÇÃO
+	55. Atualizar StudyOS
+	56. Gerar Resumo para Dashboard
+	57. Prompt para Agente Diário
+	58. Auditoria de Consistência entre Chats
+	59. Gerar Backup Textual
+
+	Combinações prontas — fluxos recomendados
+	Checklist de qualidade do uso
+	Licença e personalização comercial
